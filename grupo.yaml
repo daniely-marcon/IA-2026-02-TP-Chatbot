@@ -6,19 +6,21 @@
 # =============================================================================
 
 grupo:
-  nome: "TODO: nome do grupo (ex.: Grupo 3)"
-  integrantes:          # 3 a 4 integrantes
-    - nome: "TODO"
-      rga: "TODO"
-    - nome: "TODO"
-      rga: "TODO"
-    - nome: "TODO"
-      rga: "TODO"
+  nome: "SecretarIA"
+  integrantes:          
+    - nome: "Daniely Maximo Marcon"
+      rga: "202519060120"
+    - nome: "Giovanna Camila de Oliveira Teodoro"
+      rga: "202519060350"
+    - nome: "Mamadu Mutaro Ba"
+      rga: "202519060830"
+    - nome: "Rodnilson Barai"
+      rga: "202519060589"
 
 tema:
-  nome: "TODO: tema validado com o professor"
+  nome: "Secretaria Acadêmica"
   descricao: >
-    TODO: uma ou duas frases dizendo o que o bot faz e para quem.
+   O chatbot responde sobre assuntos relevantes da secretaria acadêmica como: períodoo de matricula e rematricula, onde encontrar histórico, declarações, como trancar o curso, o que é aproveitamento de disciplinas e o que impede a colação de grau.
 
 dados:                  # caminhos relativos a este arquivo - não altere
   treino: dados/treino.csv
@@ -37,9 +39,9 @@ llm:
   max_tokens: 300
   usar_em: [intencoes, chitchat]         # nós em que o LLM redige a resposta
   persona: >
-    TODO: quem é o bot e como ele fala. Ex.: "Você é o Rex, assistente virtual do
-    Restaurante Universitário. Seja cordial, simples e direto."
-  contato: "TODO: para onde encaminhar o que o bot não sabe (setor, e-mail...)"
+   Você é o SecrêBot, assistente virtual do
+   Secretaria Academica. Seja cordial, simples e direto.
+  contato: "secac.facom@ufms.br"
   max_frases: 3
   turnos_historico: 3
 
@@ -61,27 +63,34 @@ roteamento:
 # De 5 a 10 intenções. O nome (chave) deve ter só letras minúsculas sem acento,
 # dígitos e "_". "descricao" aparece nas mensagens do bot ("Posso ajudar com: ...").
 intencoes:
-  TODO_intencao_1:
-    descricao: "TODO"
+  matricula:
+    descricao: "período de matrícula na faculdade."
     resposta: >
-      TODO: resposta fixa curta (usada sem LLM e na avaliação automática). Com o
-      LLM ligado, o bot responde a partir dos documentos da pasta documentos/.
-  TODO_intencao_2:
-    descricao: "TODO"
+     O período de matrícula é definido pelo calendário acadêmico da ufms.
+  rematricula:
+    descricao: "período de renovação de vínculo com a faculdade."
     resposta: >
-      TODO
-  TODO_intencao_3:
-    descricao: "TODO"
+      O período de rematrícula é definido pelo calendário acadêmico da ufms.
+  trancamento:
+    descricao: "onde realizar trancamento de matrícula"
     resposta: >
-      TODO
-  TODO_intencao_4:
-    descricao: "TODO"
+      O trancamento de matrícula pode ser feito por meio do siscad na área de trancamento de matrícula.
+  historico:
+    descricao: "onde encontrar histórico acadêmico."
     resposta: >
-      TODO
-  TODO_intencao_5:
-    descricao: "TODO"
+      O histórico acadêmico pode ser encontrado no siscad.
+  declaracao:
+    descricao: "onde encontrar declarações acadêmicas."
     resposta: >
-      TODO
+      As declarações acadêmicas podem ser encontrado no siscad na área rotulada como "Meus Documentos".
+  aproveitamento:
+    descricao: "informar sobre como funciona o aproveitamento de disciplinas cursadas."
+    resposta: >
+      O aproveitamento de disciplinas segue regras sobre a carga horaria mínima cursada e a grade da disciplina cursada.
+  colacao_grau:
+    descricao: "informar sobre impedimentos para colação de grau."
+    resposta: >
+      Os principais impedimentos para a colação de grau são referentes ao não cumprimento da carga horária, e a não integralização total da estrutura curricular.
 
 # Respostas dos nós que não são intenções. {assuntos} vira a lista de descrições
 # das intenções; {opcao1}/{opcao2}, as duas intenções mais prováveis.
