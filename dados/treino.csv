@@ -1,1 +1,132 @@
 texto,intencao,origem
+A matrícula começa quando?,matricula,coletado
+Como funciona  o periodo de matricula,matricula,coletado
+"Olá, queria saber qual é o período de matrícula e como eu realizo ela?",matricula,coletado
+qual será o período de matrícula?,matricula,coletado
+"Assistente, sou aluna nova e gostaria de saber qual é o período das matrículas?",matricula,coletado
+Qual é o prazo para fazer a matrícula?,matricula,coletado
+"Bom dia, tudo bem? gostaria de saber sobre o periodo de matricula, quando começa e quanto tempo fica aberto ?",matricula,coletado
+como funciona e quando faço a matrícula?,matricula,coletado
+Chat me informe o período de matrícula do meu curso,matricula,coletado
+período de matrícula,matricula,coletado
+Qual o período de matrícula ?,matricula,humano
+Quando devo realizar minha matrícula?,matricula,humano
+Qual data é necessário realizar a matrícula?,matricula,humano
+
+
+Da pra renovar matrícula até quando?,rematricula,coletado
+Poderiam me informar as datas do prazo de rematrícula para os veteranos,rematricula,coletado
+"Olá, qual o prazo definido para matricula desse semestre?",rematricula,coletado
+até quando vai o prazo de rematrícula?,rematricula,coletado
+"Eu preciso renovar o vínculo com a faculdade, você poderia me dizer qual é o período e prazo de rematrícula?",rematricula,coletado
+Preciso fazer a rematrícula da faculdade qual é o prazo ?,rematricula,coletado
+"Bom dia, tudo certo ? qual o periodo a rematrícula fica aberta ?",rematricula,coletado
+até quando fica aberta a matrícula?,rematricula,coletado
+Chat me informe o período de renovação da matrícula do meu curso,rematricula,coletado
+prazo de rematricula,rematricula,coletado
+Quando preciso realizar rematrícula?,rematricula,humano
+Qual o período de rematrícula por requerimento?,rematricula,humano
+Qual o prazo para realização de rematrícula?,rematricula,humano
+
+
+Como faço para trancar uma matéria em específico?,trancamento,coletado
+Como é que faço para trancar o curso ou uma disciplina,trancamento,coletado
+"Olá, pretendo trancar o curso, como eu faço?",trancamento,coletado
+como faço para trancar o curso?,trancamento,coletado
+"Eu vou trancar o meu curso/matéria, mas não sei como fazer isso. Poderia me falar onde eu tenho que ir e dizer o passo a passo de como tranco o curso/matéria?",trancamento,coletado
+"Quero trancar o meu curso, me guie passo a passo de como eu devo fazer isso",trancamento,coletado
+"Bom dia, como faço para trancar o curso de engenharia de software ?",trancamento,coletado
+como faço pra trancar o curso?,trancamento,coletado
+Chat como trancar o curso,trancamento,coletado
+Em que lugar consigo trancar minha matrícula?,trancamento,humano
+Onde trancar a matrícula?,trancamento,humano
+O que preciso acessar para trancar matrícula?,trancamento,humano
+
+
+Como faço para gerar o meu histórico?Onde,historico,coletado
+Onde é que consigo tirar o meu histórico académico,historico,coletado
+"Olá, preciso do meu histórico acadêmico, tem como me enviar o link?",historico,coletado
+histórico de matrícula,historico,coletado
+Poderia me enviar o meu histórico acadêmico?,historico,coletado
+"Preciso do meu histórico acadêmico, poderia me ajudar?",historico,coletado
+"Olá, preciso do meu histórico academico para um processo seletivo, como consigo ele ?",historico,coletado
+você consegue me mandar meu histórico escolar atualizado?,historico,coletado
+Ache meu histórico acadêmico,historico,coletado
+Preciso do meu histórico acadêmico.,historico,humano
+Onde posso encontrar meu histórico acadêmico ?,historico, humano
+Como realizar download do meu histórico?,historico, humano
+
+
+Onde encontro as minhas declarações?,declaracao,coletado
+Como é que faço para emitir uma declaração de matrícula,declaracao,coletado
+"Olá, preciso da minha declaração de matrícula, me envie o link!",declaracao,coletado
+onde fica o histórico de matrícula?,declaracao,coletado
+"Assistente, preciso de uma declaração de matrícula. Onde eu consigo ela?",declaracao,coletado
+Onde eu posso encontrar a declaracão de frequência ?,declaracao,coletado
+"Olá, preciso da declaração de frequência, onde consigo ?",declaracao,coletado
+onde eu consigo minha declaração de matrícula?,declaracao,coletado
+Onde achar a declaração de matrícula ,declaracao,coletado
+declaração de matrícula ,declaracao,coletado
+Como tenho acesso às minhas declarações acadêmicas?,declaracao,humano
+Qual sistema se encontra a declaração de frequência?,declaracao,humano
+Preciso de uma declaração de matrícula.,declaracao,humano
+
+
+"As matérias anteriores que fiz, como faço para vincular elas ao curso?",aproveitamento,coletado
+Eu fiz uma disciplina noutra faculdade e queria saber como faço para pedir a equivalência/aproveitamento de nota. Quais são os passos ou os documentos que preciso de enviar,aproveitamento,coletado
+"Olá, eu cursei algumas matérias em outro curso que fiz, e queria aproveitar as notas, como eu faço isso?",aproveitamento,coletado
+como faço o aproveitamento de notas de outros curso?,aproveitamento,coletado
+"Assistente, estou cursando uma matéria que já fiz em outro curso/faculdade e gostaria de reaproveitar a matéria. Como funciona esse processo?",aproveitamento,coletado
+Gostaria de saber como funciona o aproveitamento das notas,aproveitamento,coletado
+"Olá, fiz uma graduação em outra instituição e gostaria de saber como aproveitar as matérias que fiz lá aqui na ufms",aproveitamento,coletado
+posso reaproveitar essa matéria que fiz em outro curso?,aproveitamento,coletado
+Como aproveitar matérias já cursadas em outro curso,aproveitamento,coletado
+como aproveitar disciplinas,aproveitamento,coletado
+Como funciona o aproveitamento de disciplinas?,aproveitamento,humano
+Como posso aproveitar minhas disciplinas?,aproveitamento,humano
+O que é aproveitamento de disciplinas?,aproveitamento,humano
+
+
+Posso colar grau com até quantas matérias pendentes?,colacao_grau,coletado
+o que é preciso fazer para conseguir colar grau,colacao_grau,coletado
+"Eu estou em dúvida sobre a colação de grau, pode me explicar as regras? Eu posso ficar devendo matérias?",colacao_grau,coletado
+quais a regras para eu poder colar grau?,colacao_grau,coletado
+Estou terminando o meu curso e gostaria de saber das regras e se há algo que me impede de colar grau? Eu consigo colar grau mesmo devendo uma matéria?,colacao_grau,coletado
+"Estou no final do curso, queria saber quais são os requisitos para poder colar o grau",colacao_grau,coletado
+"Olá, estou me formando esse ano, quero saber oque pode me impedir de colar grau",colacao_grau,coletado
+quais sao os impeditivos pra eu colar grau?,colacao_grau,coletado
+Quais as regras para colar grau,colacao_grau,coletado
+lista de aquisição para colar grau,colacao_grau,coletado
+Posso colar grau com matérias pendentes?,colacao_grau,humano
+O que é necessário para colocar grau?,colacao_grau,humano
+
+
+Como funciona ru ?,fora_dominio,coletada
+Qual é  o cardápio de hj ?,fora_dominio,coletada
+"Olá, qual é o cardápio do RU hoje?",fora_dominio,coletada
+como conectar no wi-fi da faculdade?,fora_dominio,coletada
+Quais atividades posso realizar para conseguir horas complementares e como sei se elas serão aceitas no meu curso?,fora_dominio,coletada
+Que horas a academia escola fica aberta?,fora_dominio,coletada
+"Olá, como faço para conectar no wifi do eduroam ?",fora_dominio,coletada
+qual a senha do wi-fi da faculdade?,fora_dominio,coletada
+Qual laboratório está está reservado para aula do professor Zezinho hoje?,fora_dominio,coletada
+laboratório,fora_dominio,coletada
+Qual o período de matrícula do progeli?,fora_dominio,humano
+Onde incluir o meu histórico escolar?,fora_dominio,humano
+Onde encontrar declaração de participação em eventos?,fora_dominio,humano
+Como aproveitar horas de iniciação científica?,fora_dominio,humano
+Onde será a colação de grau?,fora_dominio,humano
+
+
+Fala ai,chitchat,coletado
+Olá.,chitchat,coletado
+oi chat,chitchat,coletado
+"bot, pode me ajudar?",chitchat,coletado
+Olá,chitchat,coletado
+"ola, o que você faz e como pode me ajudwr?",chitchat,coletado
+Chat,chitchat,coletado
+eai chat,chitchat,coletado
+"oi, em que vc pode ajudar?",chitchat,humano
+oi,chitchat,humano
+me ajuda aq,chitchat,humano
+preciso de ajuda para assuntos academicos,chitchat,humano
