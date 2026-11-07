@@ -86,7 +86,8 @@ intencoes:
   aproveitamento:
     descricao: "informar sobre como funciona o aproveitamento de disciplinas cursadas."
     resposta: >
-      O aproveitamento de disciplinas segue regras sobre a carga horaria mínima cursada e a grade da disciplina cursada.
+      O aproveitamento de disciplinas cursadas exige o reconhecimento de equivalência entre a disciplina cursada, com aprovação,
+      em uma instituição de Ensino Superior autorizada ou credenciada, com a disciplina qual pretende o aproveitamento.
   colacao_grau:
     descricao: "informar sobre impedimentos para colação de grau."
     resposta: >
