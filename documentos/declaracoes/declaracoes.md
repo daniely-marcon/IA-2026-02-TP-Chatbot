@@ -1,5 +1,3 @@
-
-
 ### ONDE EMITIR DOCUMENTOS
 A Pró-reitoria de Graduação da UFMS disponibilizou a funcionalidade de Emissão Online de Documentos do aluno, diretamente no Siscad. O acadêmico poderá gerar Atestado de Matrícula, Histórico Escolar e o Programa das Disciplinas cursadas com aprovação sem precisar ir até a secretaria acadêmica. Além disso, existe uma página de validação (https://siscad.ufms.br/validar) que será utilizada para validar o documento emitido nesse formato, evitando fraudes.
 Os documentos podem ser acessados no portal do SISCAD, após realizar o login com as suas credencias clique em 'Meus Documentos' no menu lateral esquerdo e verá a lista de documentos disponíveis para emissão.

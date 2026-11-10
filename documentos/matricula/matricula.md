@@ -4,7 +4,6 @@ Calouros devem utilizar o portal de matricula específico : https://matriculaonl
 Guia on-line - Matrícula pelo sistema de cotas: https://www.youtube.com/watch?v=SJyvulw-Vw0
 
 
-
 ### REALIZAR MATRICULA UFMS
 Os candidatos convocados receberão um e-mail com as instruções para a realização da matrícula, que ocorre de forma online pelo site https://matriculaonline.ufms.br/matricula.
 Para efetuar a matrícula, o candidato deve:
@@ -12,8 +11,6 @@ Acessar o sistema com seu login e senha.
 Preencher o Cadastro do Estudante.
 Anexar os documentos exigidos no Edital de Convocação, conforme o tipo de vaga e os requisitos específicos do curso.
 Após conferir todas as informações, clicar em “Finalizar Matrícula”.
-
-
 
 
 ### Esqueci minha senha ou não tenho cadastro no sistema.
@@ -27,7 +24,6 @@ Candidatos sem cadastro no Sistema de Matrículas On-line receberão uma senha d
 Caso já tenha cadastro, basta entrar com sua senha ou utilizar a conta Gov.Br. Se necessário, selecione “Redefinir Senha”.
 Se não tiver mais acesso ao e-mail cadastrado, é preciso solicitar a atualização do endereço de e-mail à Unidade da Administração e, em seguida, refazer o processo de redefinição de senha.
 O calendário academico pode ser acessado no seguinte endereço: https://prograd.ufms.br/calendario-academico/
-
 
 
 ### Dificuldades para realizar a matrícula
@@ -98,10 +94,9 @@ Apto(a) a Cursar: são as disciplinas que o estudante ainda não cursou e poder�
 
 -Aba Bloqueadas: são as disciplinas da estrutura do curso, que o estudante ainda não cursou e está impossibilitado de cursar no semestre por não ter cumprido os pré-requisitos;
 -Aba Cumpridas: são as disciplinas pertencentes à estrutura do curso, já cursadas ou aproveitadas pelo estudante. Não serão exibidas na aba “Cumpridas” disciplinas cursadas que não pertençam a estrutura do curso. Para visualizar todas as disciplinas cursadas, deve-se acessar o menu Histórico Escolar.
-- Após finalização da seleção de disciplinas, clique em Prosseguir e, na próxima tela (Revisão), clique em Salvar para armazenar as informações no sistema.
+-Após finalização da seleção de disciplinas, clique em Prosseguir e, na próxima tela (Revisão), clique em Salvar para armazenar as informações no sistema.
 
 ### Solicitação de Ajustes
-
 Essa etapa ocorre após a seleção de turmas realizada pelos estudantes e distribuição automática de turmas realizada pelo sistema.
 A solicitação de ajustes é bastante similar a etapa de seleção.
 Na listagem de disciplinas apto(a) a cursar, duas novas colunas serão criadas (Turma Confirmada e Turma Ajustes).
@@ -113,7 +108,6 @@ Para cancelar a solicitação de troca de turma, em "Turma Ajustes" escolha a me
 Após finalização da solicitação de ajustes, clique em Prosseguir.
 
 ### Revisão da Seleção ou Revisão da Solicitação de Ajustes
-
 Será mostrado um resumo das ações realizadas na seleção ou solicitação de ajustes de disciplinas.
 Clique em "Salvar" para armazenar as informações no sistema.
 
