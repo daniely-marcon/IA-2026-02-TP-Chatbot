@@ -1,7 +1,7 @@
 texto,intencao,origem
 A matrícula começa quando?,matricula,coletado
 Como funciona  o periodo de matricula,matricula,coletado
-"Olá, queria saber qual é o período de matrícula e como eu realizo ela?",matricula,coletado
+"Olá, queria saber qual é o período de matrícula ?",matricula,coletado
 qual será o período de matrícula?,matricula,coletado
 "Assistente, sou aluna nova e gostaria de saber qual é o período das matrículas?",matricula,coletado
 Qual é o prazo para fazer a matrícula?,matricula,coletado
@@ -9,7 +9,7 @@ Qual é o prazo para fazer a matrícula?,matricula,coletado
 como funciona e quando faço a matrícula?,matricula,coletado
 Chat me informe o período de matrícula do meu curso,matricula,coletado
 período de matrícula,matricula,coletado
-"Oi chat gostaria de saber como faço a matrícula da universidade",matricula,coletado
+"Oi chat gostaria de saber quando faço a matrícula da universidade",matricula,coletado
 Qual o período para fazer a matrícula?,matricula,coletado
 "Chat, qual é o período de matrícula desse ano?",matricula,coletado
 Quando é que vai ser o período  da matrícula?,matricula,coletado
@@ -18,20 +18,69 @@ Que periodo começam as matrículas?,matricula,coletado
 Quando começam as matrículas para os alunos ingressantes? ,matricula,coletado
 Olá! Sou um aluno ingressante e gostaria de saber qual é o período para realizar a minha matrícula na faculdade.,matricula,coletado
 Aí quando é a matrícula?,matricula,coletado
-"Vou enviar uma mensagem pra secretária do meu curso, atráves de contacto. ",matricula,coletado
 qnd posso me matricular ?,matricula,coletado
 Quando é que vai começar a matrícula?,matricula,coletado
 Quando é que vai começar o período de matrícula?,matricula,coletado
 qual o periodo da matricula ? ,matricula,coletado
-Como eu faço a matrícula? ,matricula,coletado
+quando é q eu faço a matrícula? ,matricula,coletado
 Ola gostaria de saber quando começa o período de matrícula para so alunos ingressantes,matricula,coletado
 Data das matrículas UFMS ,matricula,coletado
 Boa tarde! Como funciona o período de matrícula? ,matricula,coletado
 Quando inicia o período da matrícula?,matricula,coletado
-"Então, quanto tempo leva para se inscrever no curso de Engenharia de Software na FACOM, quais são os requisitos e quando preciso concluir o processo?",matricula,coletado
+"Então, quanto tempo tenho para me matricuular no curso de Engenharia de Software na FACOM?",matricula,coletado
 Qual o período de matrícula ?,matricula,humano
 Quando devo realizar minha matrícula?,matricula,humano
 Qual data é necessário realizar a matrícula?,matricula,humano
+Calendário de matrículas,matricula,llm
+Datas de matrícula,matricula,llm
+Prazo para matrícula,matricula,llm
+Matrícula dos calouros,matricula,llm
+Inscrição para matrícula,matricula,llm
+Começo das matrículas,matricula,llm
+Até quando me matriculo?,matricula,llm
+"Olá, por favor, quando começa o período de matrícula para o próximo semestre?",matricula,llm
+Poderia me informar até que dia posso realizar minha matrícula na faculdade?,matricula,llm
+As matrículas para os estudantes ingressantes já estão abertas?,matricula,llm
+As matrículas já começaram?,matricula,llm
+Qual é o prazo pra se matricular nas disciplinas?,matricula,llm
+Até que dia posso fazer minha matrícula?,matricula,llm
+Ainda dá tempo de fazer matrícula?,matricula,llm
+Que dia começa a matrícula dos calouros?,matricula,llm
+quando começa o periodo de matricula desse semestre,matricula,llm
+até que dia posso fazer minha matrícula na faculdade,matricula,llm
+qual é a ultima data pra fazer a matricula na faculdade,matricula,llm
+"Oi, você sabe quando começa o período de matrícula deste semestre? Estou com pressa para me organizar e não quero perder o prazo.",matricula,llm
+"Estou tentando me planejar para o próximo semestre, mas não sei até que dia posso fazer a matrícula. Podem me informar o prazo?",matricula,llm
+Estou com dificuldade para saber se o período de matrícula já está aberto. Pode me confirmar as datas atualizadas?,matricula,llm
+"Por gentileza, qual é o prazo final para realizar a matrícula neste semestre?",matricula,llm
+Gostaria de saber em que data será aberto o período de matrícula da faculdade.,matricula,llm
+Vocês poderiam me informar o calendário de matrículas para o próximo período letivo?,matricula,llm
+Qual é o período previsto para os estudantes ingressantes realizarem a matrícula?,matricula,llm
+Vocês sabem quando termina o prazo para os novos alunos confirmarem a matrícula?,matricula,llm
+qual o prazo pra confirmar minha matrícula no curso,matricula,llm
+quando abre a matrícula para quem passou no vestibular,matricula,llm
+qual é o prazo de matrícula para os novos alunos,matricula,llm
+"As matrículas já estão abertas? Quero resolver isso hoje, mas não sei se o prazo começou.",matricula,llm
+Quando abre matrícula?,matricula,llm
+Período de matrícula?,matricula,llm
+Datas das matrículas?,matricula,llm
+Matrícula começa quando?,matricula,llm
+Até quando posso me matricular?,matricula,llm
+Qual o prazo de matrícula?,matricula,llm
+Matrículas abertas?,matricula,llm
+Data de início das matrículas,matricula,llm
+Data final das matrículas,matricula,llm
+Matrícula para calouros,matricula,llm
+Inscrição de novos alunos,matricula,llm
+Prazo para ingressantes,matricula,llm
+Quando posso ingressar?,matricula,llm
+Matrícula do primeiro semestre,matricula,llm
+Matrícula do segundo semestre,matricula,llm
+Período de ingresso,matricula,llm
+Inscrições para a faculdade,matricula,llm
+Quando começam as inscrições?,matricula,llm
+Encerramento das matrículas,matricula,llm
+
 
 
 Da pra renovar matrícula até quando?,rematricula,coletado
@@ -67,6 +116,46 @@ As inscrições estão abertas para este semestre na facom?,rematricula,coletado
 Quando preciso realizar rematrícula?,rematricula,humano
 Qual o período de rematrícula por requerimento?,rematricula,humano
 Qual o prazo para realização de rematrícula?,rematricula,humano
+"Por gentileza, quando começa o período para renovar meu vínculo com a faculdade?",rematricula,llm
+Até que data posso solicitar a renovação do vínculo acadêmico neste semestre?,rematricula,llm
+"Por favor, poderia me informar quando será o próximo período de renovação de vínculo?" ,rematricula,llm
+Quando abre o período pra renovar meu vínculo com a faculdade?,rematricula,llm
+Até que dia posso renovar o vínculo?,rematricula,llm
+"Oi, sabe quando começa a renovação do vínculo acadêmico?",rematricula,llm
+quando abre o prazo pra renovação de vinculo com a faculdade,rematricula,llm
+Tem alguma data limite pra manter meu vínculo ativo?,rematricula,llm
+qual é o periodo pra renovar meu vinculo esse semestre,rematricula,llm
+a renovação de vinculo já começou ou ainda vai abrir,rematricula,llm
+tem algum prazo extra pra renovar o vinculo com a facul,rematricula,llm
+qual o ultimo dia pra fazer a renovação de vinculo nesse ano,rematricula,llm
+Estou preocupado porque não sei quando abre o período de renovação de vínculo. Onde posso confirmar as datas?,rematricula,llm
+Meu vínculo com a faculdade precisa ser renovado neste semestre? Estou com medo de perder o prazo.,rematricula,llm
+Ainda dá tempo de renovar meu vínculo acadêmico? Não encontrei o calendário atualizado.,rematricula,llm
+"Preciso renovar meu vínculo, mas não sei até que dia posso fazer isso. Podem me orientar?",rematricula,llm
+Estou ansioso porque o semestre está começando e não recebi nenhuma informação sobre a renovação de vínculo. Quando ela acontece?,rematricula,llm
+Perdi o aviso sobre a renovação do vínculo e preciso saber se o prazo já passou. Conseguem verificar?,rematricula,llm
+Qual é o período para renovar o vínculo com a faculdade neste ano? Preciso me organizar com urgência.,rematricula,llm
+Não quero ficar com o vínculo irregular por perder a data. Onde vejo o prazo de renovação?,rematricula,llm
+Estou tentando me planejar e preciso saber em que mês acontece a renovação de vínculo acadêmico. Podem me ajudar?,rematricula,llm
+O prazo para renovar meu vínculo termina logo? Estou sem acesso ao calendário e preciso dessa informação rapidamente.,rematricula,llm
+Qual o prazo de renovação?,rematricula,llm
+Período para renovar vínculo,rematricula,llm
+Calendário de renovação de vínculo,rematricula,llm
+Quando renovo meu vínculo?,rematricula,llm
+Datas para renovar vínculo,rematricula,llm
+Renovação de vínculo acadêmico,rematricula,llm
+Até quando renovar vínculo?,rematricula,llm
+Cronograma de renovação acadêmica,rematricula,llm
+Prazo para manter vínculo,rematricula,llm
+Renovação do vínculo estudantil,rematricula,llm
+Ainda dá tempo de renovar meu vínculo?,rematricula,llm
+Qual o último dia pra regularizar meu vínculo?,rematricula,llm
+"Renovação de vínculo, quando?",rematricula,llm
+Limite para renovar vínculo?,rematricula,llm
+Quando renovar vínculo acadêmico?,rematricula,llm
+Prazo vigente para renovação?,rematricula,llm
+Período atual de renovação?,rematricula,llm
+Onde consulto as datas da renovação de vínculo?,rematricula,llm
 
 
 Como faço para trancar uma matéria em específico?,trancamento,coletado
@@ -100,7 +189,13 @@ Onde tranco o curso?,trancamento,coletado
 Em que lugar consigo trancar minha matrícula?,trancamento,humano
 Onde trancar a matrícula?,trancamento,humano
 O que preciso acessar para trancar matrícula?,trancamento,humano
-
+"Preciso renovar meu vínculo neste semestre, mas não sei até quando posso fazer isso. Alguém pode me informar as datas?",rematricula,llm
+Até quando posso renovar?,rematricula,llm
+Onde consulto as datas da renovação de vínculo?,rematricula,llm
+quando começa o periodo de renovação de vinculo desse semestre,rematricula,llm
+qual a data limite pra renovar meu vinculo com a faculdade,rematricula,llm
+a renovação de vinculo já ta aberta,rematricula,llm
+até quando posso fazer a renovação de vinculo,rematricula,llm
 
 Como faço para gerar o meu histórico?Onde,historico,coletado
 Onde é que consigo tirar o meu histórico académico,historico,coletado
@@ -290,7 +385,17 @@ voce sabe informar sobre onde fica os achados e perdidos do corredor central?,fo
 como altero minha foto que está no sou ufms?,fora_dominio,humano
 "eu quero me inscrever para fazer pilates na ufms, como devo fazer isso?",fora_dominio,humano
 como funciona o huv da ufms? queria levar meu pet,fora_dominio,humano
-
+Como fazer a matrícula para o curso de Francês ?,fora_dominio,humano
+Como emitir o certificado de participação no evento ?,fora_dominio,humano
+Como cadastrar minhas horas complementares ?,fora_dominio,humano
+Minha mobilidade acadêmica foi aprovada ?,fora_dominio,humano
+O que são atividades de extensão ?,fora_dominio,humano
+Sou obrigado a fazer estágio ?,fora_dominio,humano
+A partir de qual semestre posso fazer estágio ?,fora_dominio,humano
+Quando vou receber meu certificado ?,fora_dominio,humano
+Quando posso me inscrever para aulas de violão?,fora_dominio,humano
+Como matricular meu grupo de estudos na procdis?,fora_dominio,humano
+"Perdi o prazo de matrícula, tem como pedir uma exceção?",fora_dominio,llm
 
 Fala ai,chitchat,coletado
 Olá.,chitchat,coletado
@@ -335,3 +440,31 @@ voce é humano?,chitchat,humano
 "oieee, como voce está hoje???",chitchat,humano
 eu queria sua ajuda para uns bo aí,chitchat,humano
 vc ta podendo falar agr?,chitchat,humano
+"Salve, camaradas" ,chitchat,humano
+"Então, tudo tranquilo?",chitchat,humano
+Preciso de ajuda com um negocio,chitchat,humano
+Sabe o que seria top ?,chitchat,humano
+Firmeza,chitchat,humano
+você é homem ou mulher ?,chitchat,humano
+o que você acha disso ?,chitchat,humano
+Sabe o que eu acho ?,chitchat,humano
+qual é a tua piada favorita,chitchat,massive
+gostaria que o meu robô me mostrasse imagens ou gráficos,chitchat,massive
+gostaria que apresentasse a resposta à pergunta,chitchat,massive
+espero que possamos comer biscoitos,chitchat,massive
+conta-me algo excitante,chitchat,massive
+ajuda-me a adormecer,chitchat,massive
+só uma piada aqui e ali,chitchat,massive
+quantas calorias eu queimei com meus cinquenta minutos de ioga,chitchat,massive
+gostaria que ajudasse com depuração do código,chitchat,massive
+envia flores à minha amiga,chitchat,massive
+abre a porta,chitchat,massive
+como é que a tua vida foi mudada por mim,chitchat,massive
+muito agitado,chitchat,massive
+olá diz-me que reuniões tenho hoje,chitchat,massive
+o que eu gosto hoje,chitchat,massive
+hoje fui promovido sabe tão bem,chitchat,massive
+diz-me mais sobre os meus eventos,chitchat,massive
+diz me um lugar que tenha neve agora,chitchat,massive
+olha para cima,chitchat,massive
+resolve o problema,chitchat,massive
