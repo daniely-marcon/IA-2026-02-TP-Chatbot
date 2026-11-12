@@ -80,9 +80,6 @@ Período de ingresso,matricula,llm
 Inscrições para a faculdade,matricula,llm
 Quando começam as inscrições?,matricula,llm
 Encerramento das matrículas,matricula,llm
-
-
-
 Da pra renovar matrícula até quando?,rematricula,coletado
 Poderiam me informar as datas do prazo de rematrícula para os veteranos,rematricula,coletado
 "Olá, qual o prazo definido para matricula desse semestre?",rematricula,coletado
@@ -163,8 +160,6 @@ quando começa o periodo de renovação de vinculo desse semestre,rematricula,ll
 qual a data limite pra renovar meu vinculo com a faculdade,rematricula,llm
 a renovação de vinculo já ta aberta,rematricula,llm
 até quando posso fazer a renovação de vinculo,rematricula,llm
-
-
 Como faço para trancar uma matéria em específico?,trancamento,coletado
 Como é que faço para trancar o curso ou uma disciplina,trancamento,coletado
 "Olá, pretendo trancar o curso, como eu faço?",trancamento,coletado
@@ -454,7 +449,6 @@ Análise de disciplinas cursadas,aproveitamento,llm
 Validar matérias de outra faculdade,aproveitamento,llm
 Aproveitamento de estudos anteriores,aproveitamento,llm
 Dispensa por equivalência curricular,aproveitamento,llm
-
 Posso colar grau com até quantas matérias pendentes?,colacao_grau,coletado
 o que é preciso fazer para conseguir colar grau,colacao_grau,coletado
 "Eu estou em dúvida sobre a colação de grau, pode me explicar as regras? Eu posso ficar devendo matérias?",colacao_grau,coletado
@@ -486,8 +480,52 @@ Eu gostaria de saber as regras para colar meu grau,colacao_grau,coletado
 Quais são os requisitos para se formar? Ainda posso me formar se tiver reprovado em uma matéria?,colacao_grau,coletado
 Posso colar grau com matérias pendentes?,colacao_grau,humano
 O que é necessário para colocar grau?,colacao_grau,humano
-
-
+Quais pendências acadêmicas podem me impedir de participar da colação de grau?,colacao_grau,llm
+Poderiam me informar se a falta de aprovação em alguma disciplina impede a colação de grau?,colacao_grau,llm
+A ausência de entrega do TCC pode ser um impedimento para colar grau?,colacao_grau,llm
+Existe algum requisito de estágio obrigatório que preciso cumprir antes da colação de grau?,colacao_grau,llm
+A falta de atividades complementares pode impedir a emissão do meu grau?,colacao_grau,llm
+Não ter realizado o ENADE pode me impedir de colar grau?,colacao_grau,llm
+Há documentos obrigatórios pendentes que possam bloquear minha colação de grau?,colacao_grau,llm
+Uma pendência financeira com a instituição pode impedir minha participação na colação de grau?,colacao_grau,llm
+Como posso verificar se tenho algum impedimento para colar grau?,colacao_grau,llm
+"Caso eu ainda tenha horas de extensão a cumprir, poderei participar da colação de grau?",colacao_grau,llm
+O que pode impedir minha colação de grau?,colacao_grau,llm
+Como vejo se tenho algum impedimento pra colar grau?,colacao_grau,llm
+Falta de horas complementares bloqueia a colação?,colacao_grau,llm
+"Se eu tiver pendência no estágio, não posso colar grau?",colacao_grau,llm
+TCC aprovado é obrigatório pra participar da colação?,colacao_grau,llm
+Preciso fazer o Enade pra conseguir colar grau?,colacao_grau,llm
+Tem alguma matéria pendente que impeça a colação?,colacao_grau,llm
+Uma pendência financeira pode barrar minha colação?,colacao_grau,llm
+Como descubro se falta algum requisito pra colar grau?,colacao_grau,llm
+"Ainda não entreguei os documentos finais, isso impede a colação?",colacao_grau,llm
+quais pendencias podem me impedir de colar grau,colacao_grau,llm
+to com materia reprovada posso participar da colação de grau,colacao_grau,llm
+falta de horas complementares impede a colação,colacao_grau,llm
+tem algum bloqueio financeiro que nao deixa colar grau,colacao_grau,llm
+perdi o prazo do tcc isso impede minha colação de grau,colacao_grau,llm
+quais documentos pendentes podem barrar minha colação,colacao_grau,llm
+se eu tiver debito na biblioteca nao posso colar grau,colacao_grau,llm
+ainda nao fiz o enem isso pode impedir minha colação,colacao_grau,llm
+como vejo se tenho algum impedimento pra colar grau,colacao_grau,llm
+estou devendo atividades complementares posso colar grau assim mesmo,colacao_grau,llm
+"Estou com todas as notas aprovadas, mas aparece uma pendência no sistema e minha colação é semana que vem. Como descubro o que está me impedindo?",colacao_grau,llm
+Falta pouco para a colação e me avisaram que posso ter horas complementares pendentes. Como confirmo se isso realmente impede minha formatura?,colacao_grau,llm
+Fui informado de que preciso regularizar minha situação no ENADE antes de colar grau. Podem me dizer o que devo fazer com urgência?,colacao_grau,llm
+A cerimônia está próxima e o sistema aponta uma pendência relacionada ao estágio obrigatório. Como resolvo isso a tempo de participar?,colacao_grau,llm
+"Estou aprovado em tudo, mas disseram que falta validar uma atividade obrigatória do curso. Essa pendência pode impedir a emissão do meu diploma?",colacao_grau,llm
+Recebi um aviso sobre documentos de conclusão incompletos e estou nervoso porque a colação será neste mês. Como verifico qual documento falta?,colacao_grau,llm
+Minha turma vai colar grau em poucos dias e apareceu um bloqueio por causa de uma pendência no estágio. Existe algum jeito de verificar o motivo e regularizar rápido?,colacao_grau,llm
+Impedimentos para colação,colacao_grau,llm
+Pendências para colar grau,colacao_grau,llm
+O que impede colação?,colacao_grau,llm
+Débitos impedem colação?,colacao_grau,llm
+Requisitos pendentes para colação,colacao_grau,llm
+Colação de grau bloqueada,colacao_grau,llm
+Motivos de impedimento,colacao_grau,llm
+Restrições à colação,colacao_grau,llm
+Impedimentos na formatura,colacao_grau,llm
 Como funciona ru ?,fora_dominio,coletada
 Qual é  o cardápio de hj ?,fora_dominio,coletada
 "Olá, qual é o cardápio do RU hoje?",fora_dominio,coletada
@@ -551,6 +589,16 @@ A partir de qual semestre posso fazer estágio ?,fora_dominio,humano
 Quando vou receber meu certificado ?,fora_dominio,humano
 Quando posso me inscrever para aulas de violão?,fora_dominio,humano
 Como matricular meu grupo de estudos na procdis?,fora_dominio,humano
+O que é ufms ?,fora_dominio,humano
+O é são células?,fora_dominio,humano
+Fala mais sobre a biologia?,fora_dominio,humano
+Por que tou com dor ?,fora_dominio,humano
+Onde fica hu ?,fora_dominio,humano
+O que fazem na hu ? ,fora_dominio,humano
+"Como faço para fazer exame  de pele , para entrar na piscina?",fora_dominio,humano
+Onde fica a piscina  da ufms ?,fora_dominio,humano
+Quando a quadra abri ?,fora_dominio,humano
+Quando fazem emen  aqui ?,fora_dominio,humano
 "Perdi o prazo de matrícula, tem como pedir uma exceção?",fora_dominio,llm
 "Por gentileza, onde consulto o boleto e as opções de negociação das mensalidades?",fora_dominio,llm
 Como posso renovar o empréstimo de um livro na biblioteca?,fora_dominio,llm
