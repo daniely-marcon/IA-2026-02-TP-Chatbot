@@ -1,23 +1,4 @@
 texto,intencao,origem
-A matrícula começa quando?,matricula,coletado
-Como funciona  o periodo de matricula,matricula,coletado
-"Olá, queria saber qual é o período de matrícula ?",matricula,coletado
-qual será o período de matrícula?,matricula,coletado
-"Assistente, sou aluna nova e gostaria de saber qual é o período das matrículas?",matricula,coletado
-Qual é o prazo para fazer a matrícula?,matricula,coletado
-"Bom dia, tudo bem? gostaria de saber sobre o periodo de matricula, quando começa e quanto tempo fica aberto ?",matricula,coletado
-como funciona e quando faço a matrícula?,matricula,coletado
-Chat me informe o período de matrícula do meu curso,matricula,coletado
-período de matrícula,matricula,coletado
-"Oi chat gostaria de saber quando faço a matrícula da universidade",matricula,coletado
-Qual o período para fazer a matrícula?,matricula,coletado
-"Chat, qual é o período de matrícula desse ano?",matricula,coletado
-Quando é que vai ser o período  da matrícula?,matricula,coletado
-Olá! Gostaria de saber quando começam as matrículas e qual é o prazo para realizar a inscrição.,matricula,coletado
-Que periodo começam as matrículas?,matricula,coletado
-Quando começam as matrículas para os alunos ingressantes? ,matricula,coletado
-Olá! Sou um aluno ingressante e gostaria de saber qual é o período para realizar a minha matrícula na faculdade.,matricula,coletado
-Aí quando é a matrícula?,matricula,coletado
 qnd posso me matricular ?,matricula,coletado
 Quando é que vai começar a matrícula?,matricula,coletado
 Quando é que vai começar o período de matrícula?,matricula,coletado
@@ -80,25 +61,6 @@ Período de ingresso,matricula,llm
 Inscrições para a faculdade,matricula,llm
 Quando começam as inscrições?,matricula,llm
 Encerramento das matrículas,matricula,llm
-Da pra renovar matrícula até quando?,rematricula,coletado
-Poderiam me informar as datas do prazo de rematrícula para os veteranos,rematricula,coletado
-"Olá, qual o prazo definido para matricula desse semestre?",rematricula,coletado
-até quando vai o prazo de rematrícula?,rematricula,coletado
-"Eu preciso renovar o vínculo com a faculdade, você poderia me dizer qual é o período e prazo de rematrícula?",rematricula,coletado
-Preciso fazer a rematrícula da faculdade qual é o prazo ?,rematricula,coletado
-"Bom dia, tudo certo ? qual o periodo a rematrícula fica aberta ?",rematricula,coletado
-até quando fica aberta a matrícula?,rematricula,coletado
-Chat me informe o período de renovação da matrícula do meu curso,rematricula,coletado
-prazo de rematricula,rematricula,coletado
-"Oi chat como qual o prazo de rematrícula? ",rematricula,coletado
-Qual a data limite e de início da rematrícula?,rematricula,coletado
-Qual o período de rematrícula?,rematricula,coletado
-Quando é que  começa  o período  de renovação  da matricula ,rematricula,coletado
-Olá! Sou aluno veterano e gostaria de saber como faço para renovar meu vínculo com a faculdade e qual é o prazo.,rematricula,coletado
-Vai até quando a renovação da matrícula?,rematricula,coletado
-Qual é o prazo para renovar meu vínculo com a universidade?,rematricula,coletado
-"Olá, sou veterano.Poderia me informar qual é o prazo e o procedimento para fazer a matrícula e renovar o meu vínculo neste semestre?",rematricula,coletado
-Faço o q pra renovar o meu vínculo?,rematricula,coletado
 "Enviar um gmail, pra secretária. ",rematricula,coletado
 até qnd vai a rematricula ?,rematricula,coletado
 Como posso renovar a minha matrícula?,rematricula,coletado
@@ -160,25 +122,6 @@ quando começa o periodo de renovação de vinculo desse semestre,rematricula,ll
 qual a data limite pra renovar meu vinculo com a faculdade,rematricula,llm
 a renovação de vinculo já ta aberta,rematricula,llm
 até quando posso fazer a renovação de vinculo,rematricula,llm
-Como faço para trancar uma matéria em específico?,trancamento,coletado
-Como é que faço para trancar o curso ou uma disciplina,trancamento,coletado
-"Olá, pretendo trancar o curso, como eu faço?",trancamento,coletado
-como faço para trancar o curso?,trancamento,coletado
-"Eu vou trancar o meu curso/matéria, mas não sei como fazer isso. Poderia me falar onde eu tenho que ir e dizer o passo a passo de como tranco o curso/matéria?",trancamento,coletado
-"Quero trancar o meu curso, me guie passo a passo de como eu devo fazer isso",trancamento,coletado
-"Bom dia, como faço para trancar o curso de engenharia de software ?",trancamento,coletado
-como faço pra trancar o curso?,trancamento,coletado
-Chat como trancar o curso,trancamento,coletado
-Como faço para trancar a matéria e aonde posso tá indo para isso ,trancamento,coletado
-Como posso trancar o curso?,trancamento,coletado
-Como trancar o curso?,trancamento,coletado
-Clmo ei faço para trancar  o curso ,trancamento,coletado
-Olá! Gostaria de saber como faço para trancar de curso ou de matéria.,trancamento,coletado
-Como faço para trancar o curso?,trancamento,coletado
-Como faço para solicitar o trancamento do meu curso ou de uma disciplina? ,trancamento,coletado
-Gostaria de saber onde devo solicitar o trancamento de uma matéria ou do curso.,trancamento,coletado
-Precisa-se d q exatamente para trancar um curso?,trancamento,coletado
-Como trancar o curso ou sejá uma matéria.,trancamento,coletado
 quero trancar a disciplina ,trancamento,coletado
 Como alguém faz pra trancar o curso?,trancamento,coletado
 Como posso trancar o curso ?,trancamento,coletado
@@ -237,25 +180,6 @@ Como faço o trancamento?,trancamento,llm
 Tranco pelo portal?,trancamento,llm
 Onde fica o setor responsável?,trancamento,llm
 Trancamento na Secretaria Acadêmica?,trancamento,llm
-Como faço para gerar o meu histórico?Onde,historico,coletado
-Onde é que consigo tirar o meu histórico académico,historico,coletado
-"Olá, preciso do meu histórico acadêmico, tem como me enviar o link?",historico,coletado
-histórico de matrícula,historico,coletado
-Poderia me enviar o meu histórico acadêmico?,historico,coletado
-"Preciso do meu histórico acadêmico, poderia me ajudar?",historico,coletado
-"Olá, preciso do meu histórico academico para um processo seletivo, como consigo ele ?",historico,coletado
-você consegue me mandar meu histórico escolar atualizado?,historico,coletado
-Ache meu histórico acadêmico,historico,coletado
-Oi poderia me passar o horário da matéria específica do curso que estou matrícula,historico,coletado
-Histórico acadêmico,historico,coletado
-Me envie meu histórico acadêmico,historico,coletado
-Enviar o meu hestorico escolar,historico,coletado
-Olá! Gostaria de solicitar meu histórico acadêmico. Como posso fazer isso?,historico,coletado
-Necessito ver o meu histórico acadêmico.,historico,coletado
-Como faço para solicitar meu histórico acadêmico?,historico,coletado
-"Olá, preciso emitir o meu histórico acadêmico para um processo. Como posso obtê-lo?",historico,coletado
-Consegue gerar o histórico pra mim?,historico,coletado
-Como posso conseguir o meu histórico.,historico,coletado
 onde emitir o histórico?,historico,coletado
 Como faria pra conseguir o histórico no siscad?,historico,coletado
 Como é que se faz pra conseguir o histórico acadêmico?,historico,coletado
@@ -318,25 +242,6 @@ Consulta do histórico,historico,llm
 "Meu histórico, onde?",historico,llm
 Portal do histórico,historico,llm
 Emitir histórico acadêmico,historico,llm
-Onde encontro as minhas declarações?,declaracao,coletado
-Como é que faço para emitir uma declaração de matrícula,declaracao,coletado
-"Olá, preciso da minha declaração de matrícula, me envie o link!",declaracao,coletado
-onde fica o histórico de matrícula?,declaracao,coletado
-"Assistente, preciso de uma declaração de matrícula. Onde eu consigo ela?",declaracao,coletado
-Onde eu posso encontrar a declaracão de frequência ?,declaracao,coletado
-"Olá, preciso da declaração de frequência, onde consigo ?",declaracao,coletado
-onde eu consigo minha declaração de matrícula?,declaracao,coletado
-Onde achar a declaração de matrícula ,declaracao,coletado
-declaração de matrícula ,declaracao,coletado
-Oi chat em qual portal poço está solicitando minha declaração de matrícula ,declaracao,coletado
-Preciso de uma declaração (espepecificando a necessidade).,declaracao,coletado
-Como encontro minha declaração de (frequência ou matrícula),declaracao,coletado
-Onde é que posso ver a minha declaração  de matrícula ,declaracao,coletado
-Olá! Preciso de uma declaração de matrícula. Como posso solicitar e onde posso retirar?,declaracao,coletado
-Preciso de um passo a passo de como emitir as minhas declarações ,declaracao,coletado
-Onde posso solicitar declaração de matrícula ?,declaracao,coletado
-Poderia me informar onde e como consigo emitir uma declaração de matrícula ou frequência? ,declaracao,coletado
-E as minhas declarações faço como para tê-las?,declaracao,coletado
 Como é que se faz pra conseguir a Declaração de matrícula.,declaracao,coletado
 Onde posso baixar a declaração de matrícula?,declaracao,coletado
 Como posso conseguir a Declaração?,declaracao,coletado
@@ -393,25 +298,6 @@ Declarações ficam onde?,declaracao,llm
 Emitir declaração acadêmica,declaracao,llm
 Solicitar declarações online,declaracao,llm
 Onde consultar declarações?,declaracao,llm
-"As matérias anteriores que fiz, como faço para vincular elas ao curso?",aproveitamento,coletado
-Eu fiz uma disciplina noutra faculdade e queria saber como faço para pedir a equivalência/aproveitamento de nota. Quais são os passos ou os documentos que preciso de enviar,aproveitamento,coletado
-"Olá, eu cursei algumas matérias em outro curso que fiz, e queria aproveitar as notas, como eu faço isso?",aproveitamento,coletado
-como faço o aproveitamento de notas de outros curso?,aproveitamento,coletado
-"Assistente, estou cursando uma matéria que já fiz em outro curso/faculdade e gostaria de reaproveitar a matéria. Como funciona esse processo?",aproveitamento,coletado
-Gostaria de saber como funciona o aproveitamento das notas,aproveitamento,coletado
-"Olá, fiz uma graduação em outra instituição e gostaria de saber como aproveitar as matérias que fiz lá aqui na ufms",aproveitamento,coletado
-posso reaproveitar essa matéria que fiz em outro curso?,aproveitamento,coletado
-Como aproveitar matérias já cursadas em outro curso,aproveitamento,coletado
-como aproveitar disciplinas,aproveitamento,coletado
-Oi será quer posso fazer a transferência de notas ata minha nova universidade ,aproveitamento,coletado
-Como posso fazer o reaproveitamento de materias cursadas?,aproveitamento,coletado
-como funciona o reaproveitamento de disciplinas?,aproveitamento,coletado
-Camo eu faço  para reiaproveitar a materia ja cursada ,aproveitamento,coletado
-Olá! Já cursei uma matéria em outra faculdade e gostaria de saber como faço para solicitar o aproveitamento das disciplinas.,aproveitamento,coletado
-"Aquela disciplina que fiz lá, da para aproveitá-la aqui?",aproveitamento,coletado
-Como faço para solicitar o aproveitamento de disciplinas que já cursei em outro curso ou faculdade ?,aproveitamento,coletado
-Gostaria de saber qual é o procedimento e quais são os prazos para solicitar o aproveitamento de disciplinas em outra faculdade ou curso?,aproveitamento,coletado
-As matérias que fiz anteriormente tão valendo?,aproveitamento,coletado
 Como posso pussar a disciplina. ,aproveitamento,coletado
 Consigo aproveitar a disciplina da minha antiga faculdade ?,aproveitamento,coletado
 Como é que se faz pra pussar a disciplina?,aproveitamento,coletado
@@ -449,25 +335,6 @@ Análise de disciplinas cursadas,aproveitamento,llm
 Validar matérias de outra faculdade,aproveitamento,llm
 Aproveitamento de estudos anteriores,aproveitamento,llm
 Dispensa por equivalência curricular,aproveitamento,llm
-Posso colar grau com até quantas matérias pendentes?,colacao_grau,coletado
-o que é preciso fazer para conseguir colar grau,colacao_grau,coletado
-"Eu estou em dúvida sobre a colação de grau, pode me explicar as regras? Eu posso ficar devendo matérias?",colacao_grau,coletado
-quais a regras para eu poder colar grau?,colacao_grau,coletado
-Estou terminando o meu curso e gostaria de saber das regras e se há algo que me impede de colar grau? Eu consigo colar grau mesmo devendo uma matéria?,colacao_grau,coletado
-"Estou no final do curso, queria saber quais são os requisitos para poder colar o grau",colacao_grau,coletado
-"Olá, estou me formando esse ano, quero saber oque pode me impedir de colar grau",colacao_grau,coletado
-quais sao os impeditivos pra eu colar grau?,colacao_grau,coletado
-Quais as regras para colar grau,colacao_grau,coletado
-lista de aquisição para colar grau,colacao_grau,coletado
-"Quais as regras sobre colar grau, e o que pode me deixar de fora" ,colacao_grau,coletado
-Baseado no meu histórico curricular eu posso colar grau?,colacao_grau,coletado
-Quais são as regras para colar grau?,colacao_grau,coletado
-Como eu vejo que ta tudo serto para eu finelizar ou se não  eutou devendo materia,colacao_grau,coletado
-Olá! Gostaria de saber quais são os requisitos necessários para colar grau e se existe alguma pendência que preciso resolver.,colacao_grau,coletado
-Quais os impedimentos pra eu colar grau?,colacao_grau,coletado
-Quais são os requisitos para colar grau ?,colacao_grau,coletado
-Quais são os requisitos e impedimentos para a colocação de grau? É possível colar grau devendo alguma disciplina pendente?,colacao_grau,coletado
-O que me impede de colar grau?,colacao_grau,coletado
 quais condições para colar grau ,colacao_grau,coletado
 Como posso saber a forma de coletar grau?,colacao_grau,coletado
 Como faria pra colar grau?,colacao_grau,coletado
@@ -526,46 +393,9 @@ Colação de grau bloqueada,colacao_grau,llm
 Motivos de impedimento,colacao_grau,llm
 Restrições à colação,colacao_grau,llm
 Impedimentos na formatura,colacao_grau,llm
-Como funciona ru ?,fora_dominio,coletada
-Qual é  o cardápio de hj ?,fora_dominio,coletada
-"Olá, qual é o cardápio do RU hoje?",fora_dominio,coletada
-como conectar no wi-fi da faculdade?,fora_dominio,coletada
-Quais atividades posso realizar para conseguir horas complementares e como sei se elas serão aceitas no meu curso?,fora_dominio,coletada
-Que horas a academia escola fica aberta?,fora_dominio,coletada
-"Olá, como faço para conectar no wifi do eduroam ?",fora_dominio,coletada
-qual a senha do wi-fi da faculdade?,fora_dominio,coletada
-Qual laboratório está está reservado para aula do professor Zezinho hoje?,fora_dominio,coletada
-laboratório,fora_dominio,coletada
-Quais são as atualizações dos livros na biblioteca física ,fora_dominio,coletada
-Qual os períodos os laboratórios de informática ficam disponíveis para uso livre?,fora_dominio,coletada
-Qual o horário de funcionamento da biblioteca?,fora_dominio,coletada
-Que horas abrir   a facom ,fora_dominio,coletada
-Olá! Gostaria de saber onde fica a biblioteca da faculdade e qual é o horário de funcionamento.,fora_dominio,coletada
-Quais tipos de comida oferecem aqui?,fora_dominio,coletada
-Como faço para acessar o Wi-Fi da universidade?,fora_dominio,coletada
-Como faço para conectar o meu dispositivo à rede Wi-Fi da universidade e qual é o procedimento para renovar o empréstimo de livros na biblioteca?,fora_dominio,coletada
-Wifi daqui é bom?,fora_dominio,coletada
-"Porquê que o RU, não funciona pra jantar no dia Sábado?",fora_dominio,coletada
-Como matricular um grupo de estudos ? ,fora_dominio,coletada
-"meu pc deu pau aqui, pode me ajudar?",fora_dominio,coletada
-"Como eu faço pra conectar na rede Wi-Fi da universidade, e por acaso existe algum sai-te que eu possa acessar os livros da biblioteca ou agendar uma prática no laboratório ",fora_dominio,coletada
-Sou estudante da ufms e gostaria de tirar uma dúvida sobre o serviço oferecidos pela universidade poderia me ajudar a encontrar informações sobre o acesso a Internet Wi-Fi para estudantes,fora_dominio,coletada
-Como aprender a usar o currículo Lattes? ,fora_dominio,coletada
-Qual é o preço do almoço? ,fora_dominio,coletada
-Wifi aqui funciona bem?,fora_dominio,coletada
-A biblioteca da universidade está aberta nos finais de semana?,fora_dominio,coletada
-Qual o período de matrícula do progeli?,fora_dominio,humano
-Onde incluir o meu histórico escolar?,fora_dominio,humano
-Onde encontrar declaração de participação em eventos?,fora_dominio,humano
-Como aproveitar horas de iniciação científica?,fora_dominio,humano
-Onde será a colação de grau?,fora_dominio,humano
-Como faço pra chegar no RU?,fora_dominio,humano
-Wifi daqui é boa?,fora_dominio,humano
-Tem restaurante universitário aqui?,fora_dominio,humano
-Como faço para conhecer pessoas novas?,fora_dominio,humano
-Posso beber cachaça na universidade?,fora_dominio,humano
-As cantinas daqui servem o quê?,fora_dominio,humano
-Os portões da universidade fecham a que horas?,fora_dominio,humano
+Como funciona ru ?,fora_dominio,coletado
+Qual é  o cardápio de hj ?,fora_dominio,coletado
+"Olá, qual é o cardápio do RU hoje?",fora_dominio,coletado
 Quantos cursos a ufms oferece?,fora_dominio,humano
 Consegues me indicar uma optativa pra eu estudar no próximo semestre?,fora_dominio,humano
 Aonde fica a Pró-reitoria?,fora_dominio,humano
@@ -589,11 +419,7 @@ A partir de qual semestre posso fazer estágio ?,fora_dominio,humano
 Quando vou receber meu certificado ?,fora_dominio,humano
 Quando posso me inscrever para aulas de violão?,fora_dominio,humano
 Como matricular meu grupo de estudos na procdis?,fora_dominio,humano
-O que é ufms ?,fora_dominio,humano
-O é são células?,fora_dominio,humano
 Fala mais sobre a biologia?,fora_dominio,humano
-Por que tou com dor ?,fora_dominio,humano
-Onde fica hu ?,fora_dominio,humano
 O que fazem na hu ? ,fora_dominio,humano
 "Como faço para fazer exame  de pele , para entrar na piscina?",fora_dominio,humano
 Onde fica a piscina  da ufms ?,fora_dominio,humano
@@ -718,36 +544,6 @@ senha do Wi-Fi,fora_dominio,llm
 passagem aérea barata,fora_dominio,llm
 academia perto,fora_dominio,llm
 horário do ônibus,fora_dominio,llm
-Fala ai,chitchat,coletado
-Olá.,chitchat,coletado
-oi chat,chitchat,coletado
-"bot, pode me ajudar?",chitchat,coletado
-"ola, o que você faz e como pode me ajudwr?",chitchat,coletado
-Chat,chitchat,coletado
-eai chat,chitchat,coletado
-"Oi , tudo bem preciso de ajuda ",chitchat,coletado
-Olá! Tudo bem? Gostaria de tirar algumas dúvidas sobre os serviços da Secretaria Acadêmica.,chitchat,coletado
-Olá! Td bem?,chitchat,coletado
-Pode me ajudar ?,chitchat,coletado
-"Olá, gostaria de tirar algumas dúvidas sobre os serviços da universidade.",chitchat,coletado
-E aí tranquilo?,chitchat,coletado
-opa,chitchat,coletado
-Oie bom dia pode me ajudar com algumas dúvidas por gentileza ,chitchat,coletado
-"Olá, preciso de ajuda e assistência com assuntos estudantis ",chitchat,coletado
-Quando começa as aulas? ,chitchat,coletado
-Não sei ,chitchat,coletado
-"Pergunta rápida, você está familiarizado com o processo de transferência da universidade? Eu quero saber algumas coisas...",chitchat,coletado
-"oi, em que vc pode ajudar?",chitchat,humano
-oi,chitchat,humano
-me ajuda aq,chitchat,humano
-preciso de ajuda para assuntos academicos,chitchat,humano
-Como vai?,chitchat,humano
-O dia tá irradiante hj hein!,chitchat,humano
-Hello! Como cê tá?,chitchat,humano
-"Bom dia, td indo?",chitchat,humano
-Bora lá parceiro!,chitchat,humano
-Tou entusiasmado hj!,chitchat,humano
-Tranquilo chat?,chitchat,humano
 Do que vc é capaz?,chitchat,humano
 Vamos  fazer o dia de hoje valer a pena!,chitchat,humano
 Dando um pulo rápido aqui só para saber se tá todo bem ,chitchat,humano
