@@ -156,6 +156,13 @@ Quando renovar vínculo acadêmico?,rematricula,llm
 Prazo vigente para renovação?,rematricula,llm
 Período atual de renovação?,rematricula,llm
 Onde consulto as datas da renovação de vínculo?,rematricula,llm
+"Preciso renovar meu vínculo neste semestre, mas não sei até quando posso fazer isso. Alguém pode me informar as datas?",rematricula,llm
+Até quando posso renovar?,rematricula,llm
+Onde consulto as datas da renovação de vínculo?,rematricula,llm
+quando começa o periodo de renovação de vinculo desse semestre,rematricula,llm
+qual a data limite pra renovar meu vinculo com a faculdade,rematricula,llm
+a renovação de vinculo já ta aberta,rematricula,llm
+até quando posso fazer a renovação de vinculo,rematricula,llm
 
 
 Como faço para trancar uma matéria em específico?,trancamento,coletado
@@ -189,14 +196,52 @@ Onde tranco o curso?,trancamento,coletado
 Em que lugar consigo trancar minha matrícula?,trancamento,humano
 Onde trancar a matrícula?,trancamento,humano
 O que preciso acessar para trancar matrícula?,trancamento,humano
-"Preciso renovar meu vínculo neste semestre, mas não sei até quando posso fazer isso. Alguém pode me informar as datas?",rematricula,llm
-Até quando posso renovar?,rematricula,llm
-Onde consulto as datas da renovação de vínculo?,rematricula,llm
-quando começa o periodo de renovação de vinculo desse semestre,rematricula,llm
-qual a data limite pra renovar meu vinculo com a faculdade,rematricula,llm
-a renovação de vinculo já ta aberta,rematricula,llm
-até quando posso fazer a renovação de vinculo,rematricula,llm
-
+"Por gentileza, onde posso solicitar o trancamento da minha matrícula?",trancamento,llm
+Como faço para encontrar o local correto para realizar o trancamento da matrícula?,trancamento,llm
+A Secretaria Acadêmica é o lugar onde devo pedir o trancamento do meu vínculo com o curso?,trancamento,llm
+"Por favor, qual é o canal indicado para solicitar o trancamento da matrícula?",trancamento,llm
+Gostaria de saber onde devo ir para formalizar o trancamento do curso.,trancamento,llm
+Poderia me orientar sobre onde registrar minha solicitação de trancamento?,trancamento,llm
+Onde encontro o atendimento responsável por receber pedidos de trancamento de matrícula?,trancamento,llm
+Você poderia informar se o trancamento deve ser solicitado presencialmente ou por algum canal específico?,trancamento,llm
+Em qual setor eu peço pra trancar o curso?,trancamento,llm
+Dá pra solicitar o trancamento pelo portal?,trancamento,llm
+Onde fica a opção de trancar minha matrícula?,trancamento,llm
+Preciso ir na Secretaria Acadêmica pra fazer o trancamento?,trancamento,llm
+Como acho o lugar certo pra pedir o trancamento?,trancamento,llm
+Qual setor da faculdade cuida de trancamento de matrícula?,trancamento,llm
+Consigo fazer o trancamento online ou tem que ir até a faculdade?,trancamento,llm
+Onde dou entrada no pedido pra trancar o curso?,trancamento,llm
+Vc sabe onde solicito o trancamento da matrícula?,trancamento,llm
+onde faço o trancamento da matricula,trancamento,llm
+qual setor cuida do trancamento do curso,trancamento,llm
+nao sei onde pedir pra trancar minha matricula,trancamento,llm
+o trancamento é feito no portal ou na secretaria,trancamento,llm
+onde encontro a opção pra trancar o curso,trancamento,llm
+pra qual lugar eu vou pra solicitar o trancamento,trancamento,llm
+como faço pra saber onde trancar minha matricula,trancamento,llm
+tem algum setor especifico pra fazer o trancamento,trancamento,llm
+onde devo ir pra tranca minha matricula,trancamento,llm
+qual é o canal pra solicitar o trancamento do curso,trancamento,llm
+Estou passando por um problema pessoal e preciso trancar a matrícula. Onde faço essa solicitação?,trancamento,llm
+"Preciso interromper o curso por um tempo, mas estou com pressa. É na Secretaria Acadêmica que peço o trancamento?",trancamento,llm
+Não vou conseguir continuar estudando neste semestre. Qual setor ou plataforma devo procurar para trancar a matrícula?,trancamento,llm
+Estou internado e preciso resolver o trancamento do curso o quanto antes. Onde posso fazer o pedido?,trancamento,llm
+Quero dar uma pausa na faculdade por motivos financeiros. Por onde solicito o trancamento da matrícula?,trancamento,llm
+Estou longe do campus e preciso trancar o curso hoje. Dá para fazer isso pelo portal ou tenho que ir à Secretaria Acadêmica?,trancamento,llm
+"Minha situação mudou de repente e não consigo continuar as aulas. Onde devo registrar o pedido de trancamento?",trancamento,llm
+"Preciso trancar a graduação, mas não sei a quem recorrer. Qual é o lugar certo para iniciar a solicitação?",trancamento,llm
+Estou pensando em me afastar do curso por questões de saúde e preciso resolver isso logo. Onde faço o trancamento?,trancamento,llm
+Não posso continuar estudando neste momento e estou preocupado em perder o prazo. Onde solicito o trancamento da matrícula?,trancamento,llm
+Local para trancamento?,trancamento,llm
+Onde solicito o trancamento?,trancamento,llm
+Trancamento é presencial?,trancamento,llm
+Qual setor faz trancamento?,trancamento,llm
+Onde pedir o trancamento?,trancamento,llm
+Como faço o trancamento?,trancamento,llm
+Tranco pelo portal?,trancamento,llm
+Onde fica o setor responsável?,trancamento,llm
+Trancamento na Secretaria Acadêmica?,trancamento,llm
 Como faço para gerar o meu histórico?Onde,historico,coletado
 Onde é que consigo tirar o meu histórico académico,historico,coletado
 "Olá, preciso do meu histórico acadêmico, tem como me enviar o link?",historico,coletado
@@ -226,10 +271,58 @@ Ola pode me informar como é que eu faço para solicitar o meu histórico acadê
 Histórico académico,historico,coletado
 "Eu preciso do meu histórico acadêmico, poderiam me ajudar",historico,coletado
 Preciso do meu histórico acadêmico.,historico,humano
-Onde posso encontrar meu histórico acadêmico ?,historico, humano
-Como realizar download do meu histórico?,historico, humano
-
-
+Onde posso encontrar meu histórico acadêmico ?,historico,humano
+Como realizar download do meu histórico?,historico,humano
+"Olá, por favor, onde posso consultar meu histórico acadêmico?",historico,llm
+Você poderia me informar em qual área do portal do aluno encontro o histórico acadêmico?,historico,llm
+"Por gentileza, como faço para acessar meu histórico acadêmico pela plataforma da faculdade?",historico,llm
+Em qual sistema devo entrar para visualizar as disciplinas e notas do meu histórico acadêmico?,historico,llm
+Poderiam me orientar sobre onde fica disponível o histórico acadêmico dos estudantes?,historico,llm
+"Por favor, há uma seção específica no aplicativo da instituição para consultar meu histórico acadêmico?",historico,llm
+Gostaria de saber em que página do site posso localizar meu histórico acadêmico.,historico,llm
+"Como posso encontrar no ambiente virtual o histórico acadêmico atualizado, por gentileza?",historico,llm
+Você sabe me dizer onde consultar meu histórico acadêmico completo?,historico,llm
+"Poderia indicar o caminho no portal para visualizar meu histórico acadêmico, por favor?",historico,llm
+Onde vejo meu histórico acadêmico?,historico,llm
+"Oi, em qual sistema encontro meu histórico?",historico,llm
+Como faço pra acessar o histórico das matérias?,historico,llm
+"Gente, onde baixa o histórico da faculdade?",historico,llm
+Meu histórico fica no portal do aluno?,historico,llm
+Onde consigo consultar minhas notas e o histórico?,historico,llm
+Tem como ver o histórico acadêmico pelo app?,historico,llm
+Qual caminho no site pra achar meu histórico?,historico,llm
+"Não tô encontrando meu histórico, onde fica?",historico,llm
+Vc sabe onde posso pegar o histórico acadêmico?,historico,llm
+onde consigo ver meu historico academico,historico,llm
+em qual parte do portal fica o historico da faculdade,historico,llm
+como acesso meu historico academico online,historico,llm
+nao to achando meu historico no sistema da universidade,historico,llm
+onde baixo o historico das materias que ja fiz,historico,llm
+tem como consultar meu historico academico pelo app,historico,llm
+qual caminho pra encontrar meu historico no portal do aluno,historico,llm
+preciso ver minhas notas antigas onde fica o historico,historico,llm
+onde eu pego o historico academico completo,historico,llm
+alguem sabe onde fica o historico escolar no site da facul,historico,llm
+"Preciso consultar meu histórico acadêmico hoje, mas não sei onde ele fica no sistema. Qual menu devo acessar?",historico,llm
+"Estou tentando ver minhas notas e disciplinas cursadas, mas não encontro o histórico acadêmico no portal. Podem me orientar?",historico,llm
+Tenho que enviar meu histórico para um processo seletivo ainda hoje. Onde faço o download desse documento?,historico,llm
+"Estou com pressa para conferir as matérias que já concluí, mas não sei em qual área do site fica o histórico. Alguém pode me ajudar?",historico,llm
+Preciso acessar meu histórico acadêmico pelo celular e não estou achando essa opção no aplicativo. Onde devo procurar?,historico,llm
+O prazo para apresentar meu histórico está acabando e não sei onde emitir o arquivo. Como encontro essa opção no portal do aluno?,historico,llm
+"Quero verificar minhas notas de semestres anteriores, mas só encontro as informações do período atual. Onde acesso o histórico completo?",historico,llm
+"Estou tentando baixar meu histórico acadêmico para organizar meus documentos, mas não acho a página certa. Qual caminho devo seguir?",historico,llm
+Preciso conferir meu desempenho nas disciplinas cursadas com urgência. Onde fica o histórico acadêmico na plataforma da faculdade?,historico,llm
+Não estou conseguindo localizar meu histórico no sistema e preciso consultar as matérias que já fiz. Podem me dizer onde acessar?,historico,llm
+Onde vejo histórico?,historico,llm
+Acesso ao histórico acadêmico,historico,llm
+Histórico no portal?,historico,llm
+Localizar meu histórico,historico,llm
+Histórico escolar online?,historico,llm
+Baixar histórico acadêmico,historico,llm
+Consulta do histórico,historico,llm
+"Meu histórico, onde?",historico,llm
+Portal do histórico,historico,llm
+Emitir histórico acadêmico,historico,llm
 Onde encontro as minhas declarações?,declaracao,coletado
 Como é que faço para emitir uma declaração de matrícula,declaracao,coletado
 "Olá, preciso da minha declaração de matrícula, me envie o link!",declaracao,coletado
@@ -263,8 +356,48 @@ Onde posso obter uma declaração de inscrição ou participação?,declaracao,c
 Como tenho acesso às minhas declarações acadêmicas?,declaracao,humano
 Qual sistema se encontra a declaração de frequência?,declaracao,humano
 Preciso de uma declaração de matrícula.,declaracao,humano
-
-
+"Olá, poderia me informar onde posso emitir uma declaração de matrícula?",declaracao,llm
+"Por gentileza, em qual área do portal acadêmico encontro as declarações disponíveis para os estudantes?",declaracao,llm
+Como faço para localizar e baixar uma declaração de vínculo com a universidade?,declaracao,llm
+Você poderia me orientar sobre onde solicitar uma declaração de frequência às aulas?,declaracao,llm
+"Por favor, qual setor ou plataforma disponibiliza declarações acadêmicas para os alunos?",declaracao,llm
+Como posso obter uma declaração que comprove que sou estudante desta instituição?,declaracao,llm
+Poderia me explicar onde acesso as declarações acadêmicas no sistema da universidade?,declaracao,llm
+"Onde posso solicitar uma declaração com o meu turno e curso, por gentileza?",declaracao,llm
+Você poderia indicar o caminho para gerar uma declaração acadêmica pelo portal do aluno?,declaracao,llm
+Onde consigo baixar uma declaração de matrícula?,declaracao,llm
+"Gente, onde fica a declaração acadêmica no portal?",declaracao,llm
+Como faço pra achar minhas declarações da faculdade?,declaracao,llm
+Vc sabe onde pego uma declaração de vínculo?,declaracao,llm
+"Preciso de uma declaração de frequência, onde solicito?",declaracao,llm
+A declaração de aluno regular fica em qual parte do sistema?,declaracao,llm
+Tem como emitir declaração acadêmica online? Onde?,declaracao,llm
+"Não achei a opção de declarações no portal, alguém sabe onde fica?",declaracao,llm
+"Pra pedir uma declaração da faculdade, entro em qual página?",declaracao,llm
+onde consigo pegar minha declaração de aluno no portal,declaracao,llm
+nao to achando a declaração de vínculo acadêmico,declaracao,llm
+em qual parte do sistema baixo a declaração de matrícula,declaracao,llm
+como faço pra encontrar a declaração de frequência,declaracao,llm
+onde fica a declaração de escolaridade no site da faculdade,declaracao,llm
+preciso de uma declaração de que estudo aí onde pego,declaracao,llm
+tem como baixar a declaração acadêmica pelo sistema,declaracao,llm
+qual menu eu acesso pra emitir uma declaração de aluno regular,declaracao,llm
+não achei a opção de declaração no portal vcs sabem onde fica,declaracao,llm
+"Preciso enviar uma declaração de vínculo hoje, mas não acho onde baixar. Em qual parte do portal ela fica?",declaracao,llm
+Estou com pressa para entregar uma declaração de frequência no estágio. Consigo encontrar esse documento pelo sistema?,declaracao,llm
+Onde solicito uma declaração de aluno regular? Já procurei no portal e não encontrei.,declaracao,llm
+A empresa pediu uma declaração acadêmica ainda hoje. Qual caminho devo seguir para emitir esse documento?,declaracao,llm
+"Preciso comprovar que estou estudando para um processo seletivo, mas não sei onde pegar a declaração. Podem me orientar?",declaracao,llm
+Preciso de uma declaração de que estou cursando a graduação para entregar em um processo. Onde faço a solicitação?,declaracao,llm
+Meu estágio está esperando uma declaração da faculdade e preciso resolver isso logo. É possível emitir pelo portal?,declaracao,llm
+Declarações no portal,declaracao,llm
+Acessar declarações acadêmicas,declaracao,llm
+Local das declarações,declaracao,llm
+Como baixar declarações?,declaracao,llm
+Declarações ficam onde?,declaracao,llm
+Emitir declaração acadêmica,declaracao,llm
+Solicitar declarações online,declaracao,llm
+Onde consultar declarações?,declaracao,llm
 "As matérias anteriores que fiz, como faço para vincular elas ao curso?",aproveitamento,coletado
 Eu fiz uma disciplina noutra faculdade e queria saber como faço para pedir a equivalência/aproveitamento de nota. Quais são os passos ou os documentos que preciso de enviar,aproveitamento,coletado
 "Olá, eu cursei algumas matérias em outro curso que fiz, e queria aproveitar as notas, como eu faço isso?",aproveitamento,coletado
@@ -297,7 +430,30 @@ Eu fiz um curso em outra universidade. Posso transferir os créditos para a UFMS
 Como funciona o aproveitamento de disciplinas?,aproveitamento,humano
 Como posso aproveitar minhas disciplinas?,aproveitamento,humano
 O que é aproveitamento de disciplinas?,aproveitamento,humano
-
+Poderiam me explicar como funciona o aproveitamento de disciplinas que cursei em outra universidade?,aproveitamento,llm
+Gostaria de saber quais critérios são usados para analisar um pedido de aproveitamento de disciplinas.,aproveitamento,llm
+Como é feita a comparação entre o conteúdo das disciplinas cursadas e o das matérias do meu curso atual?,aproveitamento,llm
+Como posso solicitar o aproveitamento de matérias que cursei em outro curso da própria faculdade?,aproveitamento,llm
+"Oi, como faço pra pedir aproveitamento de disciplinas?",aproveitamento,llm
+Disciplinas de outra universidade podem ser aproveitadas aqui?,aproveitamento,llm
+Como vcs analisam se uma matéria cursada pode ser aproveitada?,aproveitamento,llm
+Consigo pedir aproveitamento de uma disciplina que fiz em outro curso?,aproveitamento,llm
+como faço pra pedir aproveitamento das materias que fiz em outra faculdade,aproveitamento,llm
+queria saber se da pra aproveitar disciplinas cursadas em outro curso,aproveitamento,llm
+fiz uma disciplina parecida em outra universidade como vejo se ela pode ser aproveitada,aproveitamento,llm
+Estou com pressa para entender como funciona o aproveitamento de disciplinas que fiz em outra faculdade. Qual é o processo para pedir a análise?,aproveitamento,llm
+Fiz algumas matérias em outro curso e queria saber se posso aproveitar os créditos. Como vocês comparam o conteúdo das disciplinas?,aproveitamento,llm
+"Tenho disciplinas aprovadas em uma faculdade anterior, mas não sei se ainda posso pedir equivalência. Como funciona essa avaliação?",aproveitamento,llm
+Começo as aulas em breve e queria resolver isso logo: como solicito o aproveitamento de disciplinas cursadas em outra universidade?,aproveitamento,llm
+Preciso saber se dá para aproveitar disciplinas feitas durante uma graduação interrompida. Existe algum critério para pedir a análise?,aproveitamento,llm
+Estou tentando organizar meu semestre e preciso entender quais matérias podem ser aproveitadas por equivalência. Como faço essa solicitação?,aproveitamento,llm
+"Já tenho as ementas das disciplinas que cursei, mas não sei o que fazer com elas. Qual é o procedimento para pedir aproveitamento?",aproveitamento,llm
+Aproveitamento de matérias cursadas,aproveitamento,llm
+Equivalência de disciplinas,aproveitamento,llm
+Análise de disciplinas cursadas,aproveitamento,llm
+Validar matérias de outra faculdade,aproveitamento,llm
+Aproveitamento de estudos anteriores,aproveitamento,llm
+Dispensa por equivalência curricular,aproveitamento,llm
 
 Posso colar grau com até quantas matérias pendentes?,colacao_grau,coletado
 o que é preciso fazer para conseguir colar grau,colacao_grau,coletado
@@ -396,7 +552,124 @@ Quando vou receber meu certificado ?,fora_dominio,humano
 Quando posso me inscrever para aulas de violão?,fora_dominio,humano
 Como matricular meu grupo de estudos na procdis?,fora_dominio,humano
 "Perdi o prazo de matrícula, tem como pedir uma exceção?",fora_dominio,llm
-
+"Por gentileza, onde consulto o boleto e as opções de negociação das mensalidades?",fora_dominio,llm
+Como posso renovar o empréstimo de um livro na biblioteca?,fora_dominio,llm
+Poderia me informar onde encontro os horários das aulas e as salas em que serão realizadas?,fora_dominio,llm
+Qual setor pode me orientar sobre estágio obrigatório e assinatura do termo de compromisso?,fora_dominio,llm
+Como faço para recuperar meu acesso ao ambiente virtual de aprendizagem?,fora_dominio,llm
+Onde consulto minhas notas do semestre?,fora_dominio,llm
+Como faço pra pedir bolsa de estudos?,fora_dominio,llm
+Qual o horário de funcionamento da biblioteca?,fora_dominio,llm
+Onde vejo a grade de horários das aulas?,fora_dominio,llm
+Como acesso o portal do estágio?,fora_dominio,llm
+Que horas passa o ônibus pro campus?,fora_dominio,llm
+Tem café aberto perto da faculdade?,fora_dominio,llm
+Como faço pra pedir comida pelo app?,fora_dominio,llm
+como faço pra renegociar as mensalidades atrasadas da facul,fora_dominio,llm
+onde vejo as notas das provas no portal do aluno,fora_dominio,llm
+qual o prazo pra devolver um livro na biblioteca,fora_dominio,llm
+nao consigo entrar no wifi do campus quem pode me ajudar,fora_dominio,llm
+como me candidato a uma bolsa de iniciação cientifica,fora_dominio,llm
+onde acho uma receita facil de bolo de cenoura,fora_dominio,llm
+"Estou tentando pagar a mensalidade, mas o boleto não aparece no portal. Você sabe se o sistema financeiro está fora do ar?",fora_dominio,llm
+Preciso renovar minha senha do Wi-Fi da faculdade antes da aula começar. Onde faço isso?,fora_dominio,llm
+Minha nota da última prova ainda não foi lançada e o prazo para falar com o professor está acabando. Como entro em contato com ele?,fora_dominio,llm
+A biblioteca está cobrando uma multa por um livro que devolvi ontem. Com quem resolvo isso rápido?,fora_dominio,llm
+Quero trocar de turma porque o horário das aulas bate com meu estágio. Qual setor cuida dessa alteração?,fora_dominio,llm
+Meu computador travou bem na hora de enviar um trabalho. Como recupero o arquivo?,fora_dominio,llm
+Calendário de provas,fora_dominio,llm
+Inscrição para estágio,fora_dominio,llm
+Bolsa de estudos,fora_dominio,llm
+Vagas de monitoria,fora_dominio,llm
+Você poderia me informar como faço para solicitar uma bolsa de estudos na faculdade?,fora_dominio,llm
+"Por favor, onde consulto o valor das mensalidades e as opções de pagamento"?,fora_dominio,llm
+Você poderia explicar como funciona o financiamento estudantil oferecido pela instituição?,fora_dominio,llm
+"Por favor, como faço para reservar um livro na biblioteca da faculdade?",fora_dominio,llm
+Você poderia me informar qual é o horário de atendimento do setor de apoio psicológico?,fora_dominio,llm
+"Por favor, onde posso consultar os horários das aulas deste semestre?",fora_dominio,llm
+Você poderia me explicar como acessar o ambiente virtual de aprendizagem?,fora_dominio,llm
+Você poderia informar onde encontro o calendário de provas da minha turma?,fora_dominio,llm
+"Por favor, como faço para entrar em contato com a coordenação do meu curso?",fora_dominio,llm
+Você poderia me explicar como funciona a monitoria das disciplinas?,fora_dominio,llm
+"Por favor, onde posso consultar as oportunidades de estágio divulgadas pela faculdade?",fora_dominio,llm
+Você poderia informar como faço para participar de um projeto de iniciação científica?,fora_dominio,llm
+"Por favor, como solicito atendimento no setor de suporte de informática do campus?",fora_dominio,llm
+Você poderia me informar onde encontro os horários de funcionamento da cantina?,fora_dominio,llm
+"Por favor, onde encontro uma receita simples de bolo de cenoura?",fora_dominio,llm
+Você poderia recomendar uma série leve para assistir no fim de semana?,fora_dominio,llm
+Você poderia me dizer qual é o melhor caminho de ônibus até o centro da cidade?,fora_dominio,llm
+"Por favor, você sabe se há uma farmácia aberta perto daqui?",fora_dominio,llm
+"Por favor, como faço para cancelar uma assinatura de streaming?",fora_dominio,llm
+"Por favor, como faço para tirar uma mancha de café de uma camisa branca?",fora_dominio,llm
+Você poderia explicar como funciona a troca de óleo de um carro?,fora_dominio,llm
+"Por favor, qual é a previsão do tempo para este fim de semana?",fora_dominio,llm
+Onde vejo minhas notas desse semestre?,fora_dominio,llm
+Qual é o horário das aulas de amanhã?,fora_dominio,llm
+"Esqueci a senha do Moodle, como recupero?",fora_dominio,llm
+Como peço revisão da nota da prova?,fora_dominio,llm
+Tem vaga de estágio aberta na faculdade?,fora_dominio,llm
+Como faço pra pedir uma bolsa de estudos?,fora_dominio,llm
+Qual é a senha do wi-fi do campus?,fora_dominio,llm
+Como faço pra trocar de curso?,fora_dominio,llm
+Onde consulto as vagas de iniciação científica?,fora_dominio,llm
+Tem como reservar uma sala pra estudar em grupo?,fora_dominio,llm
+Como me inscrevo no intercâmbio da faculdade?,fora_dominio,llm
+Onde vejo o resultado do processo seletivo da monitoria?,fora_dominio,llm
+O que faço pra tirar mancha de café da roupa?,fora_dominio,llm
+Como faço pra cancelar uma compra online?,fora_dominio,llm
+Como faço pra cuidar de uma planta que tá murchando?,fora_dominio,llm
+Que horas fecha a academia aqui perto?,fora_dominio,llm
+Como recupero a senha do meu e-mail pessoal?,fora_dominio,llm
+Como faço pra trocar o pneu da bicicleta?,fora_dominio,llm
+Qual app vcs usam pra dividir a conta do restaurante?,fora_dominio,llm
+como faço pra emitir o boleto da mensalidade que venceu,fora_dominio,llm
+onde vejo o resultado do pedido de bolsa de estudos,fora_dominio,llm
+a biblioteca abre até que horas hoje,fora_dominio,llm
+nao consigo acessar o wifi do campus quem pode ajudar,fora_dominio,llm
+como faço pra pedir uma carteirinha nova de estudante,fora_dominio,llm
+qual o horario de atendimento do restaurante universitario,fora_dominio,llm
+onde vejo as notas das provas desse semestre,fora_dominio,llm
+como falo com o professor sobre uma atividade atrasada,fora_dominio,llm
+como faço pra me inscrever num projeto de pesquisa,fora_dominio,llm
+quem pode me ajudar a encontrar um estagio,fora_dominio,llm
+onde vejo as vagas de monitoria abertas,fora_dominio,llm
+como faço pra reservar uma sala de estudos no campus,fora_dominio,llm
+"Estou tentando acessar o portal do aluno, mas esqueci minha senha e a prova começa daqui a pouco.",fora_dominio,llm
+Onde vejo as notas das avaliações? O professor ainda não lançou a minha e estou preocupado.,fora_dominio,llm
+"Queria pedir uma bolsa de estudos, mas não encontrei as regras nem o prazo para enviar os documentos.",fora_dominio,llm
+Como faço para emitir a carteirinha estudantil? Preciso dela para pagar meia-entrada neste fim de semana.,fora_dominio,llm
+Estou com dúvidas sobre o plano de ensino e os critérios de avaliação da disciplina; com quem falo?,fora_dominio,llm
+"Não consigo enviar meu trabalho pelo ambiente virtual, e o prazo termina em uma hora. O que faço?",fora_dominio,llm
+Onde consulto as vagas de estágio que a faculdade divulga? Estou com pressa para me candidatar.,fora_dominio,llm
+"Queria saber se há monitoria de cálculo esta semana, porque não estou conseguindo acompanhar as aulas.",fora_dominio,llm
+Meu professor faltou e não avisaram se a aula foi cancelada; onde confirmo essa informação?,fora_dominio,llm
+"Preciso solicitar uma revisão de nota, mas não sei qual setor ou procedimento devo procurar.",fora_dominio,llm
+Como faço para reservar uma sala de estudos em grupo? Temos apresentação amanhã cedo.,fora_dominio,llm
+"Estou preso no trânsito e vou perder o horário da consulta, o que faço agora?",fora_dominio,llm
+"Meu cartão foi recusado no mercado, mas tenho certeza de que ainda tem saldo.",fora_dominio,llm
+A máquina de lavar parou no meio do ciclo e minhas roupas estão encharcadas. Alguma ideia do que fazer?,fora_dominio,llm
+Meu gato sumiu há algumas horas e estou ficando muito preocupado. Por onde começo a procurar?,fora_dominio,llm
+O encanamento da cozinha está vazando e não consigo encontrar a válvula para fechar a água.,fora_dominio,llm
+Meu voo foi cancelado e estou no aeroporto sem saber como remarcar a passagem.,fora_dominio,llm
+segunda chamada,fora_dominio,llm
+notas do semestre,fora_dominio,llm
+plano de ensino,fora_dominio,llm
+monitoria acadêmica,fora_dominio,llm
+biblioteca universitária,fora_dominio,llm
+bolsa permanência,fora_dominio,llm
+estágio obrigatório,fora_dominio,llm
+carteirinha estudantil,fora_dominio,llm
+Moodle fora do ar,fora_dominio,llm
+restaurante universitário,fora_dominio,llm
+transporte intercampi,fora_dominio,llm
+data da cerimônia,fora_dominio,llm
+trânsito agora,fora_dominio,llm
+trocar lâmpada,fora_dominio,llm
+conta de luz,fora_dominio,llm
+senha do Wi-Fi,fora_dominio,llm
+passagem aérea barata,fora_dominio,llm
+academia perto,fora_dominio,llm
+horário do ônibus,fora_dominio,llm
 Fala ai,chitchat,coletado
 Olá.,chitchat,coletado
 oi chat,chitchat,coletado
@@ -468,3 +741,61 @@ diz-me mais sobre os meus eventos,chitchat,massive
 diz me um lugar que tenha neve agora,chitchat,massive
 olha para cima,chitchat,massive
 resolve o problema,chitchat,massive
+Agradeço muito pela ajuda e pela atenção!,chitchat,llm
+Foi um prazer conversar com você; até a próxima!,chitchat,llm
+Você é sempre tão paciente comigo?,chitchat,llm
+kkkk boa essa,chitchat,llm
+Bom diaaa!,chitchat,llm
+obrigadoo vc é dmais,chitchat,llm
+tchauu até mais,chitchat,llm
+Oi! Estou entrando correndo porque minha aula já vai começar e ainda estou tentando me organizar.,chitchat,llm
+Tchau! Preciso sair agora para pegar o ônibus antes que ele passe.,chitchat,llm
+Valeu demais!,chitchat,llm
+Até mais!,chitchat,llm
+Você é incrível!,chitchat,llm
+Que chat chato.,chitchat,llm
+Adoro conversar contigo.,chitchat,llm
+Você é muito simpático!,chitchat,llm
+Como está sendo seu dia até agora?,chitchat,llm
+Posso agradecer pela sua ajuda?,chitchat,llm
+Você aceita meu agradecimento pela atenção?,chitchat,llm
+Posso dizer que você foi muito prestativo?,chitchat,llm
+Você não acha que merece um elogio pelo seu jeito atencioso?,chitchat,llm
+Tudo bem se eu me despedir por aqui?,chitchat,llm
+Posso desejar uma ótima noite antes de ir?,chitchat,llm
+Você não acha frustrante quando algo não funciona como esperado?,chitchat,llm
+Você também percebe como certos dias podem ser cansativos?,chitchat,llm
+Você se importa se eu disser que estou um pouco aborrecido?,chitchat,llm
+Você gosta de conversas tranquilas?,chitchat,llm
+Você gosta quando as pessoas conversam com educação?,chitchat,llm
+Você acha que está fazendo um bom trabalho nesta conversa?,chitchat,llm
+Você considera seu jeito de conversar simpático?,chitchat,llm
+Vc é muito simpático!,chitchat,llm
+Adoro conversar com vc.,chitchat,llm
+Mandou bem demais!,chitchat,llm
+Esse bot é gente boa 😄,chitchat,llm
+Kkkkkkk,chitchat,llm
+Legal!,chitchat,llm
+Show de bola!,chitchat,llm
+Tudo certo por aqui.,chitchat,llm
+Fica na paz!,chitchat,llm
+oii tudo bemm,chitchat,llm
+boa noitee,chitchat,llm
+eai como vai,chitchat,llm
+oláá que bom te ver,chitchat,llm
+obrigadoo pela ajuda,chitchat,llm
+valeu mesmo viu,chitchat,llm
+brigadinha de coração,chitchat,llm
+muito gentil da sua parte,chitchat,llm
+até mais tarde,chitchat,llm
+tchauu fica bem,chitchat,llm
+falou até depois,chitchat,llm
+tenha um otimo dia,chitchat,llm
+vc é muito simpatico,chitchat,llm
+gosto do seu jeito de conversar,chitchat,llm
+vc parece bem gente boa,chitchat,llm
+esse bot é divertido,chitchat,llm
+vc manda bem nas respostas,chitchat,llm
+adorei conversar com vc,chitchat,llm
+to meio sem paciencia hoje,chitchat,llm
+nossa que saco isso,chitchat,llm
