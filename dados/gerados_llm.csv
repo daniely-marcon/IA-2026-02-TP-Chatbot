@@ -858,3 +858,168 @@ comprar notebook,fora_dominio,llm
 almoço saudável,fora_dominio,llm
 imposto de renda,fora_dominio,llm
 horário do ônibus,fora_dominio,llm
+"Olá, que bom poder conversar com você, não é?",chitchat,llm
+"Bom dia, posso começar esta conversa com um cumprimento cordial?",chitchat,llm
+"Boa tarde, que agradável encontrar você por aqui, não é?",chitchat,llm
+Muito obrigado,chitchat,llm
+"Oiê, tudo bem?",chitchat,llm
+"E aí, bot 😄",chitchat,llm
+Valeu pela força!,chitchat,llm
+"Obrigadaa, vc é demais",chitchat,llm
+"Até mais, tchau tchau!",chitchat,llm
+"Falou, até daqui a pouco",chitchat,llm
+Mandou bem demais 👏,chitchat,llm
+"Vc é mó gente boa, hein?",chitchat,llm
+"Nossa, hoje tá tudo dando errado 😩",chitchat,llm
+Esse dia não acaba nunca,chitchat,llm
+"Kkkkk, boa essa",chitchat,llm
+"Hahaha, ri alto aqui",chitchat,llm
+"Ok, combinado",chitchat,llm
+"Beleza, fechou",chitchat,llm
+Entendi agora,chitchat,llm
+"Ahh, saquei",chitchat,llm
+"Bot, que simpatia toda é essa? 😄",chitchat,llm
+Vc é sempre um amorzinho,chitchat,llm
+"Pronto, por hoje deu!",chitchat,llm
+oii bom diaa,chitchat,llm
+eai como vai essa conversa hoje,chitchat,llm
+obrigadaa pela ajuda,chitchat,llm
+valeu mesmo vc foi um querido,chitchat,llm
+vou indo fica bem,chitchat,llm
+vc é um chatbot e ainda assim é tão gente boa né,chitchat,llm
+vc não cansa de ser tão paciente né,chitchat,llm
+vc manda bem demais,chitchat,llm
+essa conversa tá meio travada hoje,chitchat,llm
+ih acho que vc se perdeu um pouquinho,chitchat,llm
+kkkkkkkk,chitchat,llm
+hahaha muito bom,chitchat,llm
+rsrs vc me fez rir,chitchat,llm
+ok,chitchat,llm
+blz entendi,chitchat,llm
+saquei agora,chitchat,llm
+ahh agora fez sentido,chitchat,llm
+oi de novo sumi mas voltei,chitchat,llm
+"Oi, tudo bem? Estou meio nervoso com a prova, mas queria passar para dar um oi.",chitchat,llm
+Bom dia! Estou correndo para terminar um trabalho e só queria te cumprimentar rapidinho.,chitchat,llm
+"Valeu pela ajuda de antes, de verdade. Eu estava bem ansioso e isso me acalmou.",chitchat,llm
+Obrigada por me acompanhar nessa correria. Agora vou tentar focar nos estudos.,chitchat,llm
+"Até mais! Preciso sair correndo para a aula, mas gostei de conversar.",chitchat,llm
+"Você é muito paciente comigo, ainda mais quando eu fico repetindo as coisas por nervosismo.",chitchat,llm
+Esse chatbot é bem simpático. Até dá uma sensação de companhia enquanto estudo.,chitchat,llm
+"Aff, hoje está tudo dando errado com os trabalhos. Estou tentando não surtar.",chitchat,llm
+"Estou meio frustrado com essa plataforma, mas talvez seja só o cansaço falando.",chitchat,llm
+"Haha, eu ri disso. Precisava mesmo de uma pausa no meio dos estudos.",chitchat,llm
+"Kkkkk, não sei por que estou rindo, acho que é o nervosismo pré-prova.",chitchat,llm
+"Ok, entendido. Vou voltar para o meu resumo antes que o prazo me alcance.",chitchat,llm
+"Entendi, sim. Estou com a cabeça cheia, mas vou tentar organizar tudo com calma.",chitchat,llm
+"Nossa, que correria hoje. Tenho aula, prova e trabalho para entregar, tudo junto.",chitchat,llm
+"Oi de novo! Eu devia estar estudando, mas acabei aparecendo por aqui.",chitchat,llm
+Obrigadão por não perder a paciência comigo. Estou bem acelerado hoje.,chitchat,llm
+Você manda bem em manter a conversa leve. Isso ajuda quando estou sob pressão.,chitchat,llm
+"Pronto, respirei um pouco e já estou menos tenso. Agora volto para a biblioteca.",chitchat,llm
+Tchau por enquanto! Preciso entregar esse trabalho antes da meia-noite.,chitchat,llm
+"Boa noite! Vou tentar dormir cedo, mesmo com a prova de amanhã ocupando minha cabeça.",chitchat,llm
+Oi!,chitchat,llm
+"E aí, bot?",chitchat,llm
+Até logo!,chitchat,llm
+Você é ótimo!,chitchat,llm
+Adoro conversar contigo!,chitchat,llm
+Isso é chato.,chitchat,llm
+"Ok, entendi.",chitchat,llm
+Poderiam me explicar como funciona o aproveitamento de disciplinas que cursei em outra instituição?,aproveitamento,llm
+Quais critérios são usados para analisar se uma disciplina pode ser aproveitada no meu curso?,aproveitamento,llm
+Que documentos devo apresentar para solicitar o aproveitamento de uma disciplina já cursada?,aproveitamento,llm
+É necessário entregar o plano de ensino das disciplinas para pedir equivalência?,aproveitamento,llm
+Como é feita a comparação entre o conteúdo programático da disciplina cursada e o da disciplina do meu curso?,aproveitamento,llm
+Existe uma carga horária mínima para que uma disciplina seja considerada para aproveitamento?,aproveitamento,llm
+Posso solicitar o aproveitamento de disciplinas cursadas em uma faculdade estrangeira?,aproveitamento,llm
+Como faço para protocolar um pedido de aproveitamento de disciplinas junto à Secretaria Acadêmica?,aproveitamento,llm
+Há um prazo específico para solicitar o aproveitamento de disciplinas cursadas anteriormente?,aproveitamento,llm
+A nota obtida na disciplina original influencia a análise do pedido de aproveitamento?,aproveitamento,llm
+É possível aproveitar uma disciplina cursada em outro curso da mesma universidade?,aproveitamento,llm
+Posso pedir o aproveitamento de apenas parte do conteúdo de uma disciplina que cursei?,aproveitamento,llm
+Como receberei o resultado da análise do meu pedido de equivalência de disciplinas?,aproveitamento,llm
+Quanto tempo costuma levar a avaliação de uma solicitação de aproveitamento de disciplinas?,aproveitamento,llm
+"Se meu pedido de aproveitamento for indeferido, posso solicitar uma reavaliação?",aproveitamento,llm
+Disciplinas cursadas em cursos livres ou de extensão podem ser consideradas para aproveitamento?,aproveitamento,llm
+O aproveitamento de uma disciplina elimina a necessidade de cursar também os componentes que são pré-requisito para ela?,aproveitamento,llm
+Posso solicitar equivalência para uma disciplina optativa que já cursei em outra instituição?,aproveitamento,llm
+É preciso apresentar documentos autenticados para comprovar as disciplinas cursadas anteriormente?,aproveitamento,llm
+Como posso verificar quais disciplinas do meu curso podem ser aproveitadas com base nas que já concluí?,aproveitamento,llm
+Como faço pra pedir aproveitamento de disciplinas?,aproveitamento,llm
+Quais documentos preciso enviar pra validar matérias?,aproveitamento,llm
+Disciplinas de outra faculdade podem ser aproveitadas?,aproveitamento,llm
+Preciso mandar o plano de ensino das matérias cursadas?,aproveitamento,llm
+Como funciona a análise do aproveitamento de disciplinas?,aproveitamento,llm
+Tem prazo pra solicitar equivalência de matérias?,aproveitamento,llm
+Posso aproveitar uma disciplina que fiz há alguns anos?,aproveitamento,llm
+O aproveitamento depende da carga horária da matéria?,aproveitamento,llm
+Como sei se uma disciplina foi aceita como equivalente?,aproveitamento,llm
+Dá pra pedir aproveitamento de várias matérias de uma vez?,aproveitamento,llm
+Matéria cursada em curso técnico pode ser aproveitada?,aproveitamento,llm
+Onde envio o pedido de aproveitamento?,aproveitamento,llm
+Preciso apresentar o histórico da outra faculdade?,aproveitamento,llm
+"Se a ementa for parecida, consigo aproveitar a disciplina?",aproveitamento,llm
+Quanto tempo leva pra analisar meu pedido?,aproveitamento,llm
+Posso pedir aproveitamento de matéria feita em outra universidade?,aproveitamento,llm
+A análise considera a nota que tirei na disciplina?,aproveitamento,llm
+O que faço se meu pedido de aproveitamento for negado?,aproveitamento,llm
+Consigo aproveitar disciplinas cursadas em outro curso?,aproveitamento,llm
+Tem limite de matérias que posso pedir pra aproveitar?,aproveitamento,llm
+como faço pra aproveitar materias que ja cursei em outra faculdade,aproveitamento,llm
+queria saber quais documentos preciso pra pedir aproveitamento de disciplinas,aproveitamento,llm
+tem como validar uma materia que fiz em outro curso,aproveitamento,llm
+como funciona o aproveitamento de materias na secretaria,aproveitamento,llm
+preciso ter a ementa pra pedir equivalencia de disciplina,aproveitamento,llm
+quanto tempo demora pra analisarem meu pedido de aproveitamento,aproveitamento,llm
+posso eliminar materias que cursei antes em outra universidade,aproveitamento,llm
+onde envio o pedido pra aproveitar disciplinas ja concluidas,aproveitamento,llm
+fiz uma materia parecida em outro curso sera que consigo aproveitar,aproveitamento,llm
+qual a diferença entre aproveitamento de disciplina e equivalencia,aproveitamento,llm
+tem um prazo pra solicitar aproveitamento de materias,aproveitamento,llm
+como sei se a disciplina que fiz pode ser aproveitada,aproveitamento,llm
+precisa apresentar o historico da outra faculdade pra validar materia,aproveitamento,llm
+consigo aproveitar materia de uma faculdade que ja fechei,aproveitamento,llm
+reprovei numa disciplina aqui mas passei em uma parecida em outra facul posso pedir aproveitamento,aproveitamento,llm
+o aproveitamento depende da carga horaria da materia,aproveitamento,llm
+posso usar disciplinas de um curso tecnico pra eliminar materias da graduação,aproveitamento,llm
+queria entender como eles comparam as ementas pra aprovar o aproveitamento,aproveitamento,llm
+se eu trocar de curso consigo aproveitar as materias que ja fiz,aproveitamento,llm
+como acompanho a analise do pedido pra validar minhas disciplinas,aproveitamento,llm
+"Oi, preciso pedir aproveitamento de matérias que fiz em outra faculdade, mas não sei por onde começar. Qual é o procedimento?",aproveitamento,llm
+Estou com pressa para entender como funciona a análise das disciplinas cursadas antes de entrar na universidade. O que preciso enviar?,aproveitamento,llm
+Fiz algumas matérias em outro curso e queria saber se posso aproveitar os créditos. Quem avalia se elas são equivalentes?,aproveitamento,llm
+Alguém pode me orientar sobre o aproveitamento de disciplinas? Preciso apresentar ementas ou basta o histórico da outra instituição?,aproveitamento,llm
+"Estou tentando transferir os créditos de matérias que já concluí, mas não sei se existe um formulário específico. Como faço a solicitação?",aproveitamento,llm
+Cursei disciplinas em outra universidade e queria evitar refazer conteúdos iguais. Qual é o prazo e quais documentos são necessários para pedir aproveitamento?,aproveitamento,llm
+Preciso saber se dá para aproveitar matérias feitas em um curso técnico ou se o pedido vale só para disciplinas de graduação. Estou meio perdido com as regras.,aproveitamento,llm
+Fiz disciplinas em outra instituição há alguns anos; ainda posso solicitar o aproveitamento? A análise considera o tempo desde que cursei a matéria?,aproveitamento,llm
+Estou com dúvida sobre equivalência de disciplinas: preciso ter a mesma carga horária e o mesmo conteúdo para conseguir aproveitamento?,aproveitamento,llm
+Como funciona o aproveitamento de matérias cursadas em outra faculdade? Preciso falar com a coordenação do curso ou enviar o pedido à Secretaria Acadêmica?,aproveitamento,llm
+Tenho os planos de ensino das disciplinas que concluí em outra instituição. Isso é suficiente para solicitar o aproveitamento ou preciso de mais documentos?,aproveitamento,llm
+"Queria pedir dispensa de algumas matérias que já cursei, mas não sei se existe um limite de créditos aproveitados. Onde posso conferir?",aproveitamento,llm
+Estou ansioso porque não quero cursar novamente disciplinas que já fiz. Como é feita a análise para conceder aproveitamento?,aproveitamento,llm
+As disciplinas que cursei em uma faculdade estrangeira podem ser aproveitadas aqui? Preciso apresentar os documentos traduzidos?,aproveitamento,llm
+"Preciso solicitar equivalência de matérias de outro curso, mas não sei se todas são analisadas de uma vez ou se faço um pedido para cada disciplina.",aproveitamento,llm
+Já concluí algumas matérias antes de mudar de curso e queria saber como pedir o aproveitamento delas. A decisão depende da coordenação?,aproveitamento,llm
+Estou correndo para organizar meus documentos: quais comprovantes preciso reunir para pedir aproveitamento de disciplinas cursadas em outra instituição?,aproveitamento,llm
+"Se uma disciplina tiver nome diferente, mas conteúdo parecido com uma matéria do meu curso, ainda posso pedir aproveitamento? Como vocês comparam os programas?",aproveitamento,llm
+Fiz matérias como aluno especial em outra universidade e queria saber se elas contam para aproveitamento. Qual é o caminho para solicitar a análise?,aproveitamento,llm
+Quanto tempo costuma levar a análise de aproveitamento de disciplinas? Preciso saber logo para me organizar com as matérias que ainda vou cursar.,aproveitamento,llm
+Como funciona o aproveitamento?,aproveitamento,llm
+Aproveitamento de disciplinas cursadas,aproveitamento,llm
+Como validar matérias?,aproveitamento,llm
+Reaproveitar disciplinas anteriores,aproveitamento,llm
+Solicitar aproveitamento de matérias,aproveitamento,llm
+Aceitam disciplinas de outra faculdade?,aproveitamento,llm
+Como pedir equivalência?,aproveitamento,llm
+Dispensa de disciplinas cursadas,aproveitamento,llm
+Validar matérias da transferência,aproveitamento,llm
+Aproveitar disciplinas da graduação,aproveitamento,llm
+Quais matérias posso aproveitar?,aproveitamento,llm
+Como funciona a equivalência?,aproveitamento,llm
+Regras para aproveitamento de disciplinas,aproveitamento,llm
+Aproveitamento de matérias externas,aproveitamento,llm
+Posso validar disciplinas antigas?,aproveitamento,llm
+Como solicitar dispensa de matérias?,aproveitamento,llm
+Aproveitamento de créditos acadêmicos,aproveitamento,llm

@@ -335,6 +335,22 @@ Análise de disciplinas cursadas,aproveitamento,llm
 Validar matérias de outra faculdade,aproveitamento,llm
 Aproveitamento de estudos anteriores,aproveitamento,llm
 Dispensa por equivalência curricular,aproveitamento,llm
+Dá pra pedir aproveitamento de várias matérias de uma vez?,aproveitamento,llm
+Matéria cursada em curso técnico pode ser aproveitada?,aproveitamento,llm
+Onde envio o pedido de aproveitamento?,aproveitamento,llm
+Preciso apresentar o histórico da outra faculdade?,aproveitamento,llm
+"Se a ementa for parecida, consigo aproveitar a disciplina?",aproveitamento,llm
+Quanto tempo leva pra analisar meu pedido?,aproveitamento,llm
+Posso pedir aproveitamento de matéria feita em outra universidade?,aproveitamento,llm
+A análise considera a nota que tirei na disciplina?,aproveitamento,llm
+O que faço se meu pedido de aproveitamento for negado?,aproveitamento,llm
+Consigo aproveitar disciplinas cursadas em outro curso?,aproveitamento,llm
+Tem limite de matérias que posso pedir pra aproveitar?,aproveitamento,llm
+como faço pra aproveitar materias que ja cursei em outra faculdade,aproveitamento,llm
+tem como validar uma materia que fiz em outro curso,aproveitamento,llm
+como funciona o aproveitamento de materias na secretaria,aproveitamento,llm
+preciso ter a ementa pra pedir equivalencia de disciplina,aproveitamento,llm
+
 quais condições para colar grau ,colacao_grau,coletado
 Como posso saber a forma de coletar grau?,colacao_grau,coletado
 Como faria pra colar grau?,colacao_grau,coletado
@@ -562,6 +578,8 @@ vc ta podendo falar agr?,chitchat,humano
 Preciso de ajuda com um negocio,chitchat,humano
 Sabe o que seria top ?,chitchat,humano
 Firmeza,chitchat,humano
+eu to cansada já de toda essa burocracia,chitchat,humano
+vc nao descansa nunca????,chitchat,humano
 você é homem ou mulher ?,chitchat,humano
 o que você acha disso ?,chitchat,humano
 Sabe o que eu acho ?,chitchat,humano
