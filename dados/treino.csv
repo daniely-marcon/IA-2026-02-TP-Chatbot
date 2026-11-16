@@ -61,7 +61,6 @@ Período de ingresso,matricula,llm
 Inscrições para a faculdade,matricula,llm
 Quando começam as inscrições?,matricula,llm
 Encerramento das matrículas,matricula,llm
-"Enviar um gmail, pra secretária. ",rematricula,coletado
 até qnd vai a rematricula ?,rematricula,coletado
 Como posso renovar a minha matrícula?,rematricula,coletado
 Como posso renovar o vínculo com a faculdade?,rematricula,coletado
@@ -114,7 +113,6 @@ Limite para renovar vínculo?,rematricula,llm
 Quando renovar vínculo acadêmico?,rematricula,llm
 Prazo vigente para renovação?,rematricula,llm
 Período atual de renovação?,rematricula,llm
-Onde consulto as datas da renovação de vínculo?,rematricula,llm
 "Preciso renovar meu vínculo neste semestre, mas não sei até quando posso fazer isso. Alguém pode me informar as datas?",rematricula,llm
 Até quando posso renovar?,rematricula,llm
 Onde consulto as datas da renovação de vínculo?,rematricula,llm
@@ -178,7 +176,6 @@ Qual setor faz trancamento?,trancamento,llm
 Onde pedir o trancamento?,trancamento,llm
 Como faço o trancamento?,trancamento,llm
 Tranco pelo portal?,trancamento,llm
-Onde fica o setor responsável?,trancamento,llm
 Trancamento na Secretaria Acadêmica?,trancamento,llm
 onde emitir o histórico?,historico,coletado
 Como faria pra conseguir o histórico no siscad?,historico,coletado
@@ -350,7 +347,6 @@ como faço pra aproveitar materias que ja cursei em outra faculdade,aproveitamen
 tem como validar uma materia que fiz em outro curso,aproveitamento,llm
 como funciona o aproveitamento de materias na secretaria,aproveitamento,llm
 preciso ter a ementa pra pedir equivalencia de disciplina,aproveitamento,llm
-
 quais condições para colar grau ,colacao_grau,coletado
 Como posso saber a forma de coletar grau?,colacao_grau,coletado
 Como faria pra colar grau?,colacao_grau,coletado
@@ -661,3 +657,5 @@ vc manda bem nas respostas,chitchat,llm
 adorei conversar com vc,chitchat,llm
 to meio sem paciencia hoje,chitchat,llm
 nossa que saco isso,chitchat,llm
+"como refazer a matricula?", rematricula, humano
+""
