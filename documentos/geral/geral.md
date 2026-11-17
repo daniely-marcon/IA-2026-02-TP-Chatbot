@@ -15,3 +15,8 @@ Para obter informações sobre vestibular e passe, poderá acessar o portal  Por
 O AVA é um ambiente virtual de aprendizagem compartilhado entre alunos e professores e irá lhe auxilar o aluno gerenciar as discplinas do seu curso.
 Você pode acessar pelo seguinte endereço: https://ava.ufms.br/.
 Os materias didáticos, video-aulas e slides normalmente são disponibilizados na plataforma.
+
+
+## PAGAMENTOS
+A UFMS é uma Universidade Pública, logo não cobrados pagamentos de mensalidades ou mesmo para emitir documentos.
+Procedimentos de matricula, rematricula, trancamento e colação de grau são gratuitos. 
