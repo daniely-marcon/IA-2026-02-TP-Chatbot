@@ -40,7 +40,6 @@ Faço o q pra renovar o meu vínculo?,rematricula,coletado
 Como faço para trancar uma matéria em específico?,trancamento,coletado
 Como é que faço para trancar o curso ou uma disciplina,trancamento,coletado
 "Olá, pretendo trancar o curso, como eu faço?",trancamento,coletado
-como faço para trancar o curso?,trancamento,coletado
 "Eu vou trancar o meu curso/matéria, mas não sei como fazer isso. Poderia me falar onde eu tenho que ir e dizer o passo a passo de como tranco o curso/matéria?",trancamento,coletado
 "Quero trancar o meu curso, me guie passo a passo de como eu devo fazer isso",trancamento,coletado
 "Bom dia, como faço para trancar o curso de engenharia de software ?",trancamento,coletado
@@ -171,7 +170,6 @@ Qual laboratório está está reservado para aula do professor Zezinho hoje?,for
 laboratório,fora_dominio,coletado
 Quais são as atualizações dos livros na biblioteca física ,fora_dominio,coletado
 Qual os períodos os laboratórios de informática ficam disponíveis para uso livre?,fora_dominio,coletado
-Qual o horário de funcionamento da biblioteca?,fora_dominio,coletado
 Que horas abrir   a facom ,fora_dominio,coletado
 Olá! Gostaria de saber onde fica a biblioteca da faculdade e qual é o horário de funcionamento.,fora_dominio,coletado
 Quais tipos de comida oferecem aqui?,fora_dominio,coletado
