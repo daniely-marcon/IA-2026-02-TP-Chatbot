@@ -169,13 +169,21 @@ def construir_grafo(config: Config, clf_escopo, clf_tema, checkpointer=None, llm
 
     # --- nós dos classificadores -------------------------------------------
     def classificar_escopo(estado: EstadoChat) -> dict:
-        rotulo, conf, _ = prever_com_confianca(clf_escopo, estado["mensagem"])
+        texto = estado["mensagem"]
+        historico = estado.get("historico", [])
+        if historico:
+            texto = f"{historico[-1]['usuario']} {texto}"
+        rotulo, conf, _ = prever_com_confianca(clf_escopo, texto)
         # limpa campos que podem ter sobrado da mensagem anterior (com checkpointer)
         return {"escopo": rotulo, "confianca_escopo": conf, "intencao": None,
                 "confianca_intencao": 0.0, "candidatas": [], "trechos": []}
 
     def classificar_tema(estado: EstadoChat) -> dict:
-        rotulo, conf, candidatas = prever_com_confianca(clf_tema, estado["mensagem"])
+        texto = estado["mensagem"]
+        historico = estado.get("historico", [])
+        if historico:
+            texto = f"{historico[-1]['usuario']} {texto}"
+        rotulo, conf, candidatas = prever_com_confianca(clf_tema, texto)
         return {"intencao": rotulo, "confianca_intencao": conf, "candidatas": candidatas}
 
     # --- arestas condicionais ----------------------------------------------
