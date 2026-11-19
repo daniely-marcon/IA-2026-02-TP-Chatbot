@@ -1,19 +1,19 @@
 # Aproveitamento de Estudos
 
-## Normativa  e Definição
+Normativa  e Definição
 * **Normativa:** INSTRUÇÃO NORMATIVA Nº 33, DE 21 DE OUTUBRO DE 2019- Estabelece as normas e procedimentos para o Aproveitamento de Estudos para os estudantes dos Cursos de Graduação da Fundação Universidade Federal de Mato Grosso do Sul.
 * **Fonte:** https://boletimoficial.ufms.br/publicacao?id=374103
 * **Definição (Art. 2º):** O Aproveitamento de Estudos é o resultado do reconhecimento da equivalência entre um componente curricular cursado, com aprovação, em uma Instituição de Ensino Superior autorizada ou credenciada com aquele componente que o estudante pretenda aproveitamento. Somente serão aproveitados os estudos realizados em Cursos de Graduação ou Pós-Graduação autorizados ou reconhecidos pelo órgão competente.
 * **Art. 92.** O estudante de graduação poderá solicitar o aproveitamento de estudos em Curso de Graduação realizado concomitantemente com os estudos na UFMS,  desde que não haja vínculo simultâneo, no caso de se tratar de insittuição pública de ensino.
 
-## Prazos e Documentação Necessária
+Prazos e Documentação Necessária
 
 * **Prazo para solicitação:** O requerimento deverá ser realizado no prazo máximo de dez dias corridos da data da matrícula, para ingressantes; e dez dias corridos do início do período letivo, para os demais estudantes.
 * **Informações e documentos exigidos no requerimento:** No requerimento deverá(ão) constar o(s) componente(s) curricular(es) que pretende aproveitar, anexando os seguintes documentos:
 * **I –** Histórico Escolar da IES de origem com reconhecimento ou autorização do curso pelo Ministério da Educação ou órgão equivalente;
 * **II –** Ementas/programas dos componentes curriculares que pretende aproveitar.
 
-## ROTEIRO DE SOLICITAÇÃO
+ROTEIRO DE SOLICITAÇÃO
 
 O estudante interessado deve apresentar requerimento na Secretaria Acadêmica da Unidade de lotação do curso e toda a documentação exigida. O procedimento segue as etapas:
 
@@ -30,7 +30,7 @@ O estudante interessado deve apresentar requerimento na Secretaria Acadêmica da
 
 * **Recurso:** Se o estudante não concordar com o Plano de Estudos elaborado pelo Coordenador e aprovado pelo Colegiado de Curso, poderá recorrer ao Conselho da Unidade na qual o curso está lotado.
 
-## Casos Elegíveis e Limites 
+Casos Elegíveis e Limites
 
 * **Casos elegíveis (Art. 4º):** O estudante interessado poderá solicitar Aproveitamento de Estudos ao Colegiado de Curso nas seguintes situações:
   * **I –** Estudos realizados antes do ingresso na UFMS;
@@ -45,7 +45,7 @@ O estudante interessado deve apresentar requerimento na Secretaria Acadêmica da
   * **§ 2º** O componente curricular cursado será contabilizado como enriquecimento curricular (ENR), não contabilizando a carga horária.
 * **Estudos realizados no exterior (Art. 7º):** Poderão ser aproveitados desde que seja comprovada a legalidade do curso e da instituição de origem dos estudos, e que os documentos originais possuam autenticação consular e tradução realizada por tradutor público, quando os documentos não forem expedidos em língua espanhola, inglesa ou francesa (ressalvados os casos previstos em acordos, convenções ou tratados dos quais o Brasil seja signatário, conforme Parágrafo único).
 
-## Critérios para Dispensa (Art. 8º)
+Critérios para Dispensa (Art. 8º)
 
 A dispensa por aproveitamento de estudos somente será permitida se:
 
@@ -54,7 +54,7 @@ A dispensa por aproveitamento de estudos somente será permitida se:
 * **III –** Houver equivalência, analisada com critérios de razoabilidade, entre a ementa do componente curricular cursado e a ementa do componente curricular a ser dispensado no Curso.
 
 
-## Conversão de Créditos, Formas de Dispensa e Regras Gerais
+Conversão de Créditos, Formas de Dispensa e Regras Gerais
 
 * **Conversão de créditos e horas (Art. 9º):** A carga horária do componente curricular cursado será computada em horas, com conversão de créditos para horas, quando for o caso:
   * **§ 1º** Para estudos realizados em Instituição de Ensino Superior (IES) nacionais, a conversão de créditos para horas se baseará em documentação da instituição de origem que informe a relação entre créditos e horas.

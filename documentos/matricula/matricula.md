@@ -1,6 +1,6 @@
 # Matrícula na UFMS
 
-## Central de Matrículas e Canais de Atendimento
+Central de Matrículas e Canais de Atendimento
 
 * **Ingressantes (calouros):** Devem utilizar o portal de matrícula específico: https://matriculaonline.ufms.br/matricula , este processo é obrigatorio para primeira matricula independente da forma de ingresso ou curso.
 * **Guia on-line - Matrícula pelo sistema de cotas:** https://www.youtube.com/watch?v=SJyvulw-Vw0
@@ -8,7 +8,7 @@
 * **Dúvidas sobre matrículas de Mestrado e Doutorado:** Sanadas pelos canais `selecao.propp@ufms.br`, `(67) 3345-7744` ou `(67) 3345-7192`.
 
 
-## Realizar Matrícula de Ingressantes (UFMS)
+Realizar Matrícula de Ingressantes (UFMS)
 
 Os candidatos convocados receberão um e-mail com as instruções para a realização da matrícula, que ocorre de forma online pelo site https://matriculaonline.ufms.br/matricula.
 
@@ -23,14 +23,14 @@ Para efetuar a matrícula, o candidato deve:
 * **Confirmação de matrícula:** Para verificar se sua matrícula foi confirmada, acesse o sistema de matrícula (https://matriculaonline.ufms.br/matricula), faça o login e consulte a situação da sua matrícula, que deverá aparecer como **“confirmada”**. Não será enviado um e-mail de confirmação de matrícula.
 
 
-## Senha e Acesso ao Sistema de Matrículas On-line
+* Senha e Acesso ao Sistema de Matrículas On-line
 
 * Candidatos sem cadastro no Sistema de Matrículas On-line receberão uma senha de acesso no e-mail cadastrado no momento da inscrição.
 * Caso já tenha cadastro, basta entrar com sua senha ou utilizar a conta Gov.Br. Se necessário, selecione **“Redefinir Senha”**.
 * Se não tiver mais acesso ao e-mail cadastrado, é preciso solicitar a atualização do endereço de e-mail à Unidade da Administração e, em seguida, refazer o processo de redefinição de senha.
 
 
-## Siglas de Situação de Matrícula
+Siglas de Situação de Matrícula
 
 Todas as interfaces em que são exibidas as siglas possuem legendas no rodapé indicando a descrição completa. A sigla de cada situação de matrícula é composta por 2 letras e pode ser de 8 tipos:
 * **AP:** Aprovado.
@@ -42,7 +42,7 @@ Todas as interfaces em que são exibidas as siglas possuem legendas no rodapé i
 * **RN:** Reprovado por Nota.
 * **RP:** Reprovado.
 
-## Etapas da Matrícula Online (Seleção de Disciplinas)
+Etapas da Matrícula Online (Seleção de Disciplinas)
 
 As informações da matrícula estão divididas em 4 etapas:
 1. **Atualização de Dados Cadastrais**
@@ -50,12 +50,12 @@ As informações da matrícula estão divididas em 4 etapas:
 3. **Seleção de Disciplinas**
 4. **Revisão da Solicitação de Ajustes**
 
-### Etapa 3: Seleção de Disciplinas
+Etapa 3: Seleção de Disciplinas
 
 * **Quadro de Horários:** Orienta o estudante com relação ao dia e ao horário da turma da disciplina escolhida, bem como os possíveis choques de horários. Cada disciplina selecionada possui uma cor distinta no quadro de horários. Caso haja intersecção para o mesmo horário e dia da semana, isso não necessariamente significa que houve choque, pois esses horários podem estar em períodos diferentes. É necessário conferir também as datas de início e fim de cada disciplina escolhida. Para visualizar os detalhes de cada horário, posicione o mouse em cima do retângulo colorido.
 * **Oferta de turmas, professores e horários:** Nas informações sobre a oferta da disciplina, há uma relação das turmas disponíveis com vagas oferecidas, professores, idiomas, horários e locais previstos.
 
-#### Aba "Apto(a) a Cursar"
+Aba "Apto(a) a Cursar"
 São as disciplinas que o estudante ainda não cursou e poderá selecionar turmas ou manifestar interesse:
 
 * **i. Selecionar turmas:**
@@ -76,13 +76,13 @@ São as disciplinas que o estudante ainda não cursou e poderá selecionar turma
   * **e.** Se não houver choque de horário, a disciplina será automaticamente incluída na tela principal;
   * **f.** *Atenção:* A manifestação de interesse não garante a oferta da disciplina ou de vagas; ela será analisada pela coordenação de curso e, se autorizada, estará disponível na próxima etapa da matrícula.
 
-#### Outras Abas
+Outras Abas
 * **Aba Bloqueadas:** Disciplinas da estrutura do curso que o estudante ainda não cursou e está impossibilitado de cursar no semestre por não ter cumprido os pré-requisitos.
 * **Aba Cumpridas:** Disciplinas pertencentes à estrutura do curso já cursadas ou aproveitadas pelo estudante (disciplinas cursadas fora da estrutura do curso não aparecem aqui e devem ser vistas no Histórico Escolar).
 
 *Após finalizar a seleção de disciplinas, clique em **Prosseguir** e, na próxima tela (Revisão), clique em **Salvar** para armazenar as informações no sistema.*
 
-### Solicitação de Ajustes
+Solicitação de Ajustes
 
 * Ocorre após a seleção de turmas e a distribuição automática realizada pelo sistema.
 * Duas novas colunas aparecem na listagem: **Turma Confirmada** (vaga obtida na distribuição automática) e **Turma Ajustes** (alterações solicitadas no período de ajustes; a alteração é detectada se for diferente da "Turma Confirmada").
@@ -91,7 +91,7 @@ São as disciplinas que o estudante ainda não cursou e poderá selecionar turma
 * **Cancelar solicitação de troca de turma:** Em "Turma Ajustes", escolha a mesma opção da "Turma Confirmada" e clique em **Salvar** (a situação voltará a ser "Matriculado(a)").
 * Ao finalizar, clique em **Prosseguir** e, na tela de Revisão, clique em **Salvar**.
 
-### Situações das Disciplinas na Aba "Apto(a) a Cursar" e Histórico de Seleção
+Situações das Disciplinas na Aba "Apto(a) a Cursar" e Histórico de Seleção
 
 * **Selecionada:** O estudante solicitou matrícula em uma turma dessa disciplina.
 * **Não matriculado(a)** (motivos no histórico de seleção):
@@ -119,7 +119,7 @@ São as disciplinas que o estudante ainda não cursou e poderá selecionar turma
 
 * **Histórico de Seleção de Disciplina:** Registra a última alteração da matrícula por **Evento** (seleção de disciplinas, distribuição das vagas, ajustes) e **Ator** (estudante, sistema, coordenador).
 
-### Observações Gerais sobre Matrícula Online
+Observações Gerais sobre Matrícula Online
 
 * Ao participar da fase de seleção da matrícula online, caso haja trancamentos em vigor, estes serão cancelados.
 * Após o término da fase de seleção, caso não concorde com a distribuição de turmas, é possível solicitar ajustes nas disciplinas/turmas nos prazos do calendário acadêmico.

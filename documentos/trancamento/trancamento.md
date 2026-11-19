@@ -1,6 +1,6 @@
 # Trancamento de Matrícula
 
-## Trancamento de Matrícula em Disciplinas (Graduação)
+** Trancamento de Matrícula em Disciplinas (Graduação)
 
 * **Solicitação e prazo:** O estudante poderá solicitar ao Colegiado de Curso o trancamento da matrícula em uma ou mais disciplinas, desde que não tenha ultrapassado período maior que vinte e cinco por cento da duração da disciplina. A solicitação de trancamento de matrícula deverá ser realizada no Sistema Acadêmico de Graduação (Siscad), durante os prazos estabelecidos no Calendário Acadêmico.
 * **Limite de trancamentos (Art. 39):** O estudante tem direito a dois trancamentos de matrícula, consecutivos ou não.
@@ -12,7 +12,7 @@
   * **III –** Em caso de ingresso após quarenta e cinco dias corridos do início do período letivo.
 * **Tempo de integralização curricular (Art. 42):** Os períodos de trancamento não serão computados no tempo de integralização curricular.
 
-## Trancamento Geral de Matrícula (Pós-Graduação *Stricto Sensu*)
+** Trancamento Geral de Matrícula (Pós-Graduação *Stricto Sensu*)
 
 O trancamento geral de matrícula em cursos de pós-graduação *stricto sensu* na UFMS obedece às seguintes regras:
 
