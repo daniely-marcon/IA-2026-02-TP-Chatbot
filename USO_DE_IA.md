@@ -11,21 +11,25 @@
 
 ## 1. Ferramentas usadas
 
-| Ferramenta (nome e versão/modelo) | Como acessaram | Quem usou |
-|---|---|---|
-|OpenRouter, modelo openai/gpt-6-luna_ | _chave do grupo, via código_ | _todos_ |
-| _Gemini (versão Plus)_ | _navegador_ | _Daniely_ |
+| Ferramenta (nome e versão/modelo)     | Como acessaram | Quem usou  |
+|---------------------------------------|---|------------|
+| OpenRouter, modelo openai/gpt-6-luna_ | _chave do grupo, via código_ | _todos_    |
+| _Gemini (versão Plus)_                | _navegador_ | _Daniely_  |
+| _Claude_                              | _navegador_ | _Giovanna_ |
+    
 
 
 ## 2. Usos, um por linha
 
-| # | Etapa | O que a IA fez | Prompt (ou resumo + link para o registro) | O que o grupo fez com o resultado |
-|---|---|---|---|---|
-| 1 | _Dados de treino_ | _gerou as perguntas para adicionar ao formulário de coleta de dados._ | _ver `https://share.gemini.google/Q2kbRdishjdc`_ | _Foram revisadas e ajustadas para o contexto que desejávamos_ |
-| 2 | _Chatbot_ | _Redige as respostas das intenções e do chitchat_ | _prompts em `chatbot/llm.py` + persona do `grupo.yaml`_ | _Ajustamos a persona 3 vezes após testes (seção X do artigo)_ |
-| 3 | _Código_ | _Sugeriu a função que plota a curva de validação_ | _"como plotar o resultado do GridSearchCV em função de C"_ | _Adaptamos nomes e eixos; entendemos e testamos_ |
-| 4 | _Escrita_ | _Revisou a gramática da Introdução_ | _"revise a gramática sem mudar o conteúdo: ..."_ | _Aceitamos parte das sugestões_ |
-| TODO | | | | |
+| #    | Etapa                     | O que a IA fez                                                                                      | Prompt (ou resumo + link para o registro)                                                                                                                       | O que o grupo fez com o resultado                              |
+|------|---------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| 1    | _Dados de treino_         | _gerou as perguntas para adicionar ao formulário de coleta de dados._                               | _ver `https://share.gemini.google/Q2kbRdishjdc`_                                                                                                                | _Foram revisadas e ajustadas para o contexto que desejávamos_  |
+| 2    | _Chatbot_                 | _Redige as respostas das intenções e do chitchat_                                                   | _prompts em `chatbot/llm.py` + persona do `grupo.yaml`_                                                                                                         | _Ajustamos a persona 3 vezes após testes (seção X do artigo)_  |
+| 3    | _Código_                  | _Sugeriu a função que plota a curva de validação_                                                   | _"como plotar o resultado do GridSearchCV em função de C"_                                                                                                      | _Adaptamos nomes e eixos; entendemos e testamos_               |
+| 4    | _Escrita_                 | _Revisou a gramática da Introdução_                                                                 | _"revise a gramática sem mudar o conteúdo: ..."_                                                                                                                | _Aceitamos parte das sugestões_                                |
+| 5    | Mapeamento dos documentos | Elucidou porque o chtabot não estava acessando os documentos                                        | prompt :'como faço para o meu chat mapear corretamente as pastas ?  as fontes sao  descritas'link: https://claude.ai/share/4db7d3f2-04bb-4fc2-ac26-7fb25f484e61 | Corrigiu a rota no yaml e no arquivo Fontes                    |
+| 6    | Teste de rotas            | identificou que a função quebra_em_trechos() estava impedindo a leitura dos documentos corretamente | link:' https://chatgpt.com/share/6aff22b5-1d70-83e8-b493-ccae270b4c5c                                                                                           | Removeu os marcadores do texto e deixou somente o titulo com # |
+| TODO |                           |                                                                                                     |                                                                                                                                                                 |                                                                |
 
 ## 3. O que NÃO foi feito com IA
 

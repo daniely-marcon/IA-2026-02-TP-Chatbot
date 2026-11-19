@@ -1,9 +1,3 @@
-# =============================================================================
-#  CONFIGURAÇÃO DO GRUPO - preencha todos os campos marcados com TODO.
-#  Este arquivo é lido pelo código base, pelo notebook e pelo script de
-#  avaliação. Mantenha a estrutura (nomes das chaves) exatamente como está.
-#  Veja um exemplo completo em exemplos/biblioteca/grupo.yaml.
-# =============================================================================
 
 grupo:
   nome: "SecretarIA"
@@ -39,8 +33,8 @@ llm:
   max_tokens: 300
   usar_em: [intencoes, chitchat]         # nós em que o LLM redige a resposta
   persona: >
-   Você é o bot de SecretarIA, assistente virtual do
-   Secretaria Academica. Seja cordial, simples e direto.
+   Você é a Aria, assistente virtual do
+   Secretaria Academica. Seja cordial, simples e direta.
   contato: "secac.facom@ufms.br"
   max_frases: 3
   turnos_historico: 3
@@ -58,40 +52,36 @@ conhecimento:
 roteamento:
   # Abaixo desta confiança no tema, o bot pede esclarecimento em vez de responder.
   # 0 desliga o recurso. Escolha o valor com base em dados e justifique no relatório.
-  limiar_tema: 0.5
+  limiar_tema: 0.4
 
 # De 5 a 10 intenções. O nome (chave) deve ter só letras minúsculas sem acento,
 # dígitos e "_". "descricao" aparece nas mensagens do bot ("Posso ajudar com: ...").
 intencoes:
   matricula:
-    descricao: "período de matrícula na faculdade."
+    descricao: "período de matrícula na faculdade, documentos necessários, convocação por todos os meios de ingresso(SISU, vestibular e passe)"
     resposta: >
-     O período de matrícula é definido pelo calendário acadêmico da ufms.
+     O período de matrícula é definido pelo calendário acadêmico da ufms, ao ser convocado poderá acompanhar através do edital.
   rematricula:
-    descricao: "período de renovação de vínculo com a faculdade."
+    descricao: "período de renovação de vínculo com a faculdade e siscad"
     resposta: >
-      O período de rematrícula é definido pelo calendário acadêmico da ufms.
+      O período de rematrícula é definido pelo calendário acadêmico da UFMS, variando de ano para ano, mas pode ser verificado antecipadamente pelo calendário e acompanhado pelo SISCAD que irá notificar o aluno sobre o período de matricula.
   trancamento:
     descricao: "onde realizar trancamento de matrícula"
     resposta: >
-      O trancamento de matrícula pode ser feito por meio do siscad na área de trancamento de matrícula.
-  historico:
-    descricao: "onde encontrar histórico acadêmico."
-    resposta: >
-      O histórico acadêmico pode ser encontrado no siscad.
+      O trancamento de matrícula pode ser feito por meio do SISCAD na área de trancamento de matrícula.
   declaracao:
-    descricao: "onde encontrar declarações acadêmicas."
+    descricao: "onde encontrar declarações acadêmicas, verificar validade e documentos disponíveis"
     resposta: >
-      As declarações acadêmicas podem ser encontrado no siscad na área rotulada como "Meus Documentos".
+      As declarações acadêmicas podem ser encontrado no SISCAD na área rotulada como "Meus Documentos".
   aproveitamento:
-    descricao: "informar sobre como funciona o aproveitamento de disciplinas cursadas."
+    descricao: "Informar sobre como funciona o aproveitamento de disciplinas cursadas em outra instituição ou curso da UFMS"
     resposta: >
       O aproveitamento de disciplinas cursadas exige o reconhecimento de equivalência entre a disciplina cursada, com aprovação,
       em uma instituição de Ensino Superior autorizada ou credenciada, com a disciplina qual pretende o aproveitamento.
   colacao_grau:
-    descricao: "informar sobre impedimentos para colação de grau."
+    descricao: " Informações sobre colação de grau."
     resposta: >
-      Os principais impedimentos para a colação de grau são referentes ao não cumprimento da carga horária, e a não integralização total da estrutura curricular.
+      Os principais impedimentos para a colação de grau são referentes ao não cumprimento da carga horária, e a não integralização total da estrutura curricular. A lista de alunos aptos para colar grau é fornecida pelo diretor do curso, assim como a publicação da data e horario.
 
 # Respostas dos nós que não são intenções. {assuntos} vira a lista de descrições
 # das intenções; {opcao1}/{opcao2}, as duas intenções mais prováveis.
