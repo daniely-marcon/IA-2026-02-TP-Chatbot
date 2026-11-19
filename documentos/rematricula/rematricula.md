@@ -1,5 +1,4 @@
 ### RENOVAÇÃO DE MATRICULA
-
 A solicitação deve ser feita no Portal Acadêmico da UFMS (SISCAD : https://siscad.ufms.br/).
 
 

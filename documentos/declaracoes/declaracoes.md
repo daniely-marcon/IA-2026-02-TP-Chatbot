@@ -4,9 +4,7 @@ Os documentos podem ser acessados no portal do SISCAD, após realizar o login co
 
 ### SOBRE A EMISSÃO DE DOCUMENTOS
 A Emissão de Documentos encontra-se no menu  Meus Documentos
-
 Esta tela destina-se à visualização e/ou emissão digital de documentos acadêmicos. Cada documento emitido contém em seu rodapé uma imagem QR Code e um código que serão utilizados na validação digital. Para emitir documentos com assinatura da secretaria, consulte a Secretaria Acadêmica.
-
 É possível visualizar, quando disponíveis, os seguintes documentos:
 
 Histórico Escolar: apresenta os dados acadêmicos do aluno, uma lista de suas disciplinas cursadas (com aprovação ou reprovação) e/ou dispensadas, bem como suas notas, faltas e professores. Disponível apenas para acadêmicos que possuem disciplinas cursadas ou dispensadas e ainda não concluíram o curso.
@@ -24,7 +22,6 @@ Lista de documentos disponíveis para emissão pelo SISCAD: Histórico Escolar, 
 
 
 ## AÇÕES DISPONÍVEIS 
-
  Pré-visualizar documento: consultar um documento com informações atualizadas.
  Emitir documento: pré-visualizar um documento e em seguida emiti-lo em versão digital. A emissão pode ser realizada apenas uma vez a cada sete dias. Para novas emissões dentro desse prazo, consulte a Secretaria Acadêmica.
  Reimprimir documento: realizar a reimpressão de um documento previamente emitido.

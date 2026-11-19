@@ -1,11 +1,9 @@
 ### NORMATIVA 
-
 NSTRUÇÃO NORMATIVA Nº 33, DE 21 DE OUTUBRO DE 2019.
 Estabelece as normas e procedimentos para o Aproveitamento de Estudos para os estudantes dos Cursos de Graduação da Fundação Universidade Federal de Mato Grosso do Sul.
 Disponível em: https://boletimoficial.ufms.br/publicacao?id=374103
 
 ### DEFINIÇÕES 
-
 Art. 2º O Aproveitamento de Estudos é o resultado do reconhecimento da
 equivalência entre um componente curricular cursado, com aprovação, em uma Instuição de
 Ensino Superior autorizada ou credenciada com aquele componente que o estudante
@@ -15,7 +13,6 @@ de Graduação ou Pós-Graduação autorizados ou reconhecidos pelo órgão comp
 Disponível em: https://boletimoficial.ufms.br/publicacao?id=374103
 
 ### ROTEIRO DE SOLICITAÇÃO
-
 O estudante interessado. Deve ser apresentado requerimento na Secretaria Acadêmica da Unidade de lotação do curso e toda a documentação exigida
 i) Analise as ementas e as cargas horárias das disciplinas já cursadas. Se necessário, faça a conversão para a hora-aula de 60 minutos;
 

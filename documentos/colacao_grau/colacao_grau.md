@@ -1,4 +1,9 @@
-### RESTRIÇÕES 
+### DEFINIÇÕES 
+A lista de alunos elegíveis para colação de grau é disponibilizada pelo diretor do curso, caso haja necessidade de ajustes ou dúvidas, o aluno deve entrar 
+em contato com o diretor de seu curso para processar as solicitações.
+O período de colação de grau é informada pelo diretor do curso. Para colar grau o aluno deve ter concluído todas as disciplinas obrigatórias, a carga horária mínima de todos os componentes e estar regular com o ENADE;
+
+## IMPEDIMENTOS
 Art. 11. Caso haja pendências no processo do estudante, a Secretaria de
 Controle Escolar apontará em diligência as correções que deverão ser realizadas.
 

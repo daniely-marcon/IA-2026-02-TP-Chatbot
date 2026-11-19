@@ -1,25 +1,19 @@
 ### SOLICITAR TRANCAMENTO
-
 O estudante poderá solicitar ao Colegiado de Curso o trancamento da matrícula em uma ou mais disciplinas, desde que não tenha ultrapassado período maior que vinte e cinco por cento da duração da disciplina.
 A solicitação de trancamento de matrícula deverá ser realizada no Sistema Acadêmico de Graduação (Siscad), durante os prazos estabelecidos no Calendário
 Acadêmico.
 
 
 ### LIMITE DE TRANCAMENTOS
-
-Art. 39. O estudante tem direito a dois trancamentos de matrícula,
-consecuitvos ou não.
+Art. 39. O estudante tem direito a dois trancamentos de matrícula,consecuitvos ou não.
 
 
 ### VIGÊNCIA  DO TRANCAMENTO
-
-§ 1º O trancamento de matrícula tem vigência apenas para o semestre
-solicitado e estende-se ao período leitvo de verão ou inverno subsequente, quando houver.
+§ 1º O trancamento de matrícula tem vigência apenas para o semestre solicitado e estende-se ao período leitvo de verão ou inverno subsequente, quando houver.
 
 
 ### CURSOS SEM PREVISÃO DE OFERTA
-§ 2º Não será permiitdo o trancamento de matrícula em cursos de graduação
-sem previsão de oferta de vagas para ingressantes
+§ 2º Não será permiitdo o trancamento de matrícula em cursos de graduação sem previsão de oferta de vagas para ingressantes
 
 
 ### CASOS ONDE É PERMITIDO O TRANCAMENTO
@@ -35,12 +29,8 @@ período leitvo.
 
 
 ### TEMPO DE INTEGRALIZAÇÃO CURRICULAR
-
-
 Art. 42. Os períodos de trancamento não serão computados no tempo de
 integralização curricular.
-
-
 
 
 ### REQUISISTOS GERAIS PARA TRANCAMENTO

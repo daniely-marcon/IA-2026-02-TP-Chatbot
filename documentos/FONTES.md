@@ -16,3 +16,4 @@ matrícula, rematrícula, trancamento, histórico, declarações acadêmicas e a
 | https://saudecentroeste.ufms.br/matricula-cancelamento/                 | Trancamento de matricula                                                           | 
 | https://siscad.ufms.br/academico/ajuda                                  | Manual do sistema academico                                                        |
 |https://boletimoficial.ufms.br/publicacao?id=374103                      | Aproveitamento de disciplinas - NSTRUÇÃO NORMATIVA Nº 33, DE 21 DE OUTUBRO DE 2019 |
+|https://ingresso.ufms.br/files/2020/01/ANEXO-I-VESTIBULAR.pdf             | Documentos para matricula                                                          |

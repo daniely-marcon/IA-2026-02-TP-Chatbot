@@ -12,6 +12,31 @@ Preencher o Cadastro do Estudante.
 Anexar os documentos exigidos no Edital de Convocação, conforme o tipo de vaga e os requisitos específicos do curso.
 Após conferir todas as informações, clicar em “Finalizar Matrícula”.
 
+## DOCUMENTOS GERAIS PARA TODOS OS CANDIDATOS
+a) Requerimento de Matrícula na UFMS impresso e devidamente assinado pelo candidato,
+gerado após o preenchimento do formulário de Cadastro do Acadêmico e do formulário do
+Perfil Socioeconômico no portal https://prematricula.ufms.br/;
+b) procuração particular com firma reconhecida em cartório, caso a matrícula não seja
+realizada pelo candidato. O modelo será disponibilizado no portal https://ingresso.ufms.br/.
+Não será aceita procuração outorgando poderes a menores de 18 anos;
+c) fotocópia de Histórico Escolar e certificado de Conclusão do Ensino Médio;
+d) parecer de Equivalência de Estudos emitido pela Secretaria Estadual de Educação e
+Histórico Escolar acompanhado de tradução realizada por tradutor público, para aqueles
+candidatos que realizaram os estudos no exterior;
+e) fotocópia da Certidão de Nascimento Civil ou de Casamento;
+f) fotocópia do Documento Oficial de Identidade ou do Registro Nacional de Estrangeiro;
+g) fotocópia do Cartão do Cadastro de Pessoa Física (CPF), caso não esteja registrado no
+Documento Oficial de Identidade;
+h) fotocópia do Certificado de Reservista ou de documento que comprove que está em dia
+com as obrigações militares (para o candidato do sexo masculino a partir dos dezoito anos);
+i) fotocópia do Título Eleitoral (obrigatório para o candidato a partir dos dezoito anos);
+j) uma fotografia recente 3x4 cm ou 5x7 cm frontal que possibilite a identificação do candidato;
+k) atestado médico que comprove que o candidato aprovado e convocado para o Curso de
+Educação Física, encontra-se apto para o desenvolvimento das atividades concernentes ao
+curso (a data do atestado médico não poderá ser anterior a mais de trinta dias da data da
+matrícula);
+
+
 
 ### Esqueci minha senha ou não tenho cadastro no sistema.
 Candidatos sem cadastro no Sistema de Matrículas On-line receberão uma senha de acesso no e-mail cadastrado no momento da inscrição.
@@ -20,10 +45,9 @@ Se não tiver mais acesso ao e-mail cadastrado, é preciso solicitar a atualiza�
 
 
 ### Quando devo fazer a matricula
-Candidatos sem cadastro no Sistema de Matrículas On-line receberão uma senha de acesso no e-mail cadastrado no momento da inscrição.
-Caso já tenha cadastro, basta entrar com sua senha ou utilizar a conta Gov.Br. Se necessário, selecione “Redefinir Senha”.
-Se não tiver mais acesso ao e-mail cadastrado, é preciso solicitar a atualização do endereço de e-mail à Unidade da Administração e, em seguida, refazer o processo de redefinição de senha.
-O calendário academico pode ser acessado no seguinte endereço: https://prograd.ufms.br/calendario-academico/
+O calendário academico pode ser acessado no seguinte endereço: https://prograd.ufms.br/calendario-academico/ para verificar o período de prazo de matricula;
+Os períodos podem ser alterados de ano para ano, logo o estudante deve verificar o calendario academico para confirmar os prazos. 
+O siscad faz alertas sobre o período de matricula a partir da segunda matricula.
 
 
 ### Dificuldades para realizar a matrícula
