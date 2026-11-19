@@ -17,3 +17,4 @@ matrícula, rematrícula, trancamento, histórico, declarações acadêmicas e a
 | declaracoes/declaracoes.md       | https://siscad.ufms.br/academico/ajuda/                                  |
 | aproveitamento/aproveitamento.md | https://boletimoficial.ufms.br/publicacao?id=374103/                     |
 | matricula/matricula.md           | https://ingresso.ufms.br/files/2020/01/ANEXO-I-VESTIBULAR.pdf/           |
+| rematricula/rematricula.md       | https://saudecentroeste.ufms.br/matricula-cancelamento/                  |
