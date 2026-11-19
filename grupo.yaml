@@ -75,10 +75,6 @@ intencoes:
     descricao: "onde realizar trancamento de matrícula"
     resposta: >
       O trancamento de matrícula pode ser feito por meio do siscad na área de trancamento de matrícula.
-  historico:
-    descricao: "onde encontrar histórico acadêmico."
-    resposta: >
-      O histórico acadêmico pode ser encontrado no siscad.
   declaracao:
     descricao: "onde encontrar declarações acadêmicas."
     resposta: >
