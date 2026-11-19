@@ -1,9 +1,3 @@
-# =============================================================================
-#  CONFIGURAÇÃO DO GRUPO - preencha todos os campos marcados com TODO.
-#  Este arquivo é lido pelo código base, pelo notebook e pelo script de
-#  avaliação. Mantenha a estrutura (nomes das chaves) exatamente como está.
-#  Veja um exemplo completo em exemplos/biblioteca/grupo.yaml.
-# =============================================================================
 
 grupo:
   nome: "SecretarIA"
