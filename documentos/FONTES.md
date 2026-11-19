@@ -12,7 +12,7 @@ matrícula, rematrícula, trancamento, histórico, declarações acadêmicas e a
 | aproveitamento/aproveitamento.md | https://prograd.ufms.br/coordenadores/aproveitamento-de-estudos-roteiro/ |
 | aproveitamento/aproveitamento.md | https://boletimoficial.ufms.br/publicacao?id=523621/                     |
 | colacao_grau/colacao_grau.md     | https://boletimoficial.ufms.br/publicacao?id=357443/                     |
-| trancamento/trancamento.d        | https://boletimoficial.ufms.br/publicacao?id=445057/                     |
+| trancamento/trancamento.md       | https://boletimoficial.ufms.br/publicacao?id=445057/                     |
 | trancamento/trancamento.md       | https://saudecentroeste.ufms.br/matricula-cancelamento/                  | 
 | declaracoes/declaracoes.md       | https://siscad.ufms.br/academico/ajuda/                                  |
 | aproveitamento/aproveitamento.md | https://boletimoficial.ufms.br/publicacao?id=374103/                     |
