@@ -1,12 +1,13 @@
-### RENOVAÇÃO DE MATRICULA
-A solicitação deve ser feita no Portal Acadêmico da UFMS (SISCAD : https://siscad.ufms.br/).
+# Renovação de Matrícula (Rematrícula)
 
+## Onde Solicitar
 
-### COMO ACOMPANHAR O PERÍODO
-Calendário acadêmico pode ser verificado para acompanhar o período de ramatricula no curso :https://prograd.ufms.br/matricula/
+* A solicitação de renovação de matrícula deve ser feita no Portal Acadêmico da UFMS (SISCAD): https://siscad.ufms.br/
 
+## Como Acompanhar o Período
 
-### DISCIPLINAS
-O aluno escolhe uma CCND que vai realizar no semestre.
+* O Calendário Acadêmico pode ser verificado para acompanhar o período de rematrícula no curso em: https://prograd.ufms.br/matricula/
 
+## Escolha de Disciplinas
 
+* O aluno escolhe uma CCND que vai realizar no semestre.
