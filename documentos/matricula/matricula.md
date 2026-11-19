@@ -2,7 +2,7 @@
 
 ## Central de Matrículas e Canais de Atendimento
 
-* **Ingressantes (calouros):** Devem utilizar o portal de matrícula específico: https://matriculaonline.ufms.br/matricula
+* **Ingressantes (calouros):** Devem utilizar o portal de matrícula específico: https://matriculaonline.ufms.br/matricula , este processo é obrigatorio para primeira matricula independente da forma de ingresso ou curso.
 * **Guia on-line - Matrícula pelo sistema de cotas:** https://www.youtube.com/watch?v=SJyvulw-Vw0
 * **Dificuldades para realizar a matrícula online:** Entre em contato com a Central de Matrícula pelo e-mail `matricula@ufms.br` ou pelo telefone `(67) 3345-7777`.
 * **Dúvidas sobre matrículas de Mestrado e Doutorado:** Sanadas pelos canais `selecao.propp@ufms.br`, `(67) 3345-7744` ou `(67) 3345-7192`.

@@ -4,7 +4,7 @@
 * **Normativa:** INSTRUÇÃO NORMATIVA Nº 33, DE 21 DE OUTUBRO DE 2019- Estabelece as normas e procedimentos para o Aproveitamento de Estudos para os estudantes dos Cursos de Graduação da Fundação Universidade Federal de Mato Grosso do Sul.
 * **Fonte:** https://boletimoficial.ufms.br/publicacao?id=374103
 * **Definição (Art. 2º):** O Aproveitamento de Estudos é o resultado do reconhecimento da equivalência entre um componente curricular cursado, com aprovação, em uma Instituição de Ensino Superior autorizada ou credenciada com aquele componente que o estudante pretenda aproveitamento. Somente serão aproveitados os estudos realizados em Cursos de Graduação ou Pós-Graduação autorizados ou reconhecidos pelo órgão competente.
-
+* **Art. 92.** O estudante de graduação poderá solicitar o aproveitamento de estudos em Curso de Graduação realizado concomitantemente com os estudos na UFMS,  desde que não haja vínculo simultâneo, no caso de se tratar de insittuição pública de ensino.
 
 ## Prazos e Documentação Necessária
 

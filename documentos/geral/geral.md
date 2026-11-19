@@ -18,7 +18,6 @@
 * **Conteúdo:** Os materiais didáticos, videoaulas e slides normalmente são disponibilizados na plataforma.
 
 ## Pagamentos e Gratuidade
-
 * A UFMS é uma Universidade Pública, logo não são cobrados pagamentos de mensalidades ou mesmo para emitir documentos.
 * Procedimentos de matrícula, rematrícula, trancamento e colação de grau são gratuitos.
 

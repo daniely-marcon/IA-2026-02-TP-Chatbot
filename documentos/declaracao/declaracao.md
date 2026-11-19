@@ -1,7 +1,6 @@
 # Declarações Acadêmicas
 
 ## Onde e Como Emitir
-
 * **Acesso:** No portal do SISCAD (https://graduacao.ufms.br/), após realizar o login com suas credenciais, clique em **'Meus Documentos'** no menu lateral esquerdo para ver a lista de documentos disponíveis para emissão.
 * **Validação digital:** Cada documento emitido contém em seu rodapé uma imagem **QR Code** e um código utilizados na validação digital através da página: https://siscad.ufms.br/validar
 * **Assinatura da secretaria:** Para emitir documentos com assinatura da secretaria, consulte a Secretaria Acadêmica.

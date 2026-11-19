@@ -8,13 +8,20 @@ matrícula, rematrícula, trancamento, histórico, declarações acadêmicas e a
 | arquivo                          | origem                                                                   |
 |----------------------------------|--------------------------------------------------------------------------|
 | geral/geral.md                   | https://prograd.ufms.br/calendario-academico/                            |
-| declaracao/declaracao.md       | https://inma.ufms.br/emissao-de-documentos-pelo-siscad-aluno/            |
+| geral/geral.md                   | https://boletimoficial.ufms.br/publicacao?id=445057/                     |
+| declaracao/declaracao.md         | https://inma.ufms.br/emissao-de-documentos-pelo-siscad-aluno/            |
 | aproveitamento/aproveitamento.md | https://prograd.ufms.br/coordenadores/aproveitamento-de-estudos-roteiro/ |
 | aproveitamento/aproveitamento.md | https://boletimoficial.ufms.br/publicacao?id=523621/                     |
 | colacao_grau/colacao_grau.md     | https://boletimoficial.ufms.br/publicacao?id=357443/                     |
 | trancamento/trancamento.md       | https://boletimoficial.ufms.br/publicacao?id=445057/                     |
 | trancamento/trancamento.md       | https://saudecentroeste.ufms.br/matricula-cancelamento/                  | 
-| declaracao/declaracao.md       | https://siscad.ufms.br/academico/ajuda/                                  |
+| declaracao/declaracao.md         | https://siscad.ufms.br/academico/ajuda/                                  |
 | aproveitamento/aproveitamento.md | https://boletimoficial.ufms.br/publicacao?id=374103/                     |
 | matricula/matricula.md           | https://ingresso.ufms.br/files/2020/01/ANEXO-I-VESTIBULAR.pdf/           |
 | rematricula/rematricula.md       | https://saudecentroeste.ufms.br/matricula-cancelamento/                  |
+| rematricula/rematricula.md       | https://boletimoficial.ufms.br/publicacao?id=445057/                     |
+| matricula/matricula.md           | https://boletimoficial.ufms.br/publicacao?id=445057/                     |
+| aproveitamento/aproveitamento.md | https://boletimoficial.ufms.br/publicacao?id=445057/                     |
+| colacao_grau/colacao_grau.md     | https://boletimoficial.ufms.br/publicacao?id=445057/                     |
+
+
